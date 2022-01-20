@@ -1,0 +1,12 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="同步播放 for (String devId : startProgeam.getDevices()) { DeviceRemoteConfig.getAll().stream().filter(device -&gt; devId.equals(device.getDevId())).findAny().ifPresent(deviceRemoteConfig -&gt; { novaDeviceHandle.nvSetTimeAndZoneAsync(deviceRemoteConfig); }); }" />
+      <item value="YYYY-MM-DD" />
+      <item value="Login Resp" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1632650392717" />
+  </component>
+</application>

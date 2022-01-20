@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Git.Settings">
+        <option name="PATH_TO_GIT" value="D:\Program Files\Git\bin\git.exe" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\javaTool\apache-maven-3.6.0\repository" />
+            <option name="mavenHome" value="D:\javaTool\apache-maven-3.6.0" />
+            <option name="userSettingsFile" value="D:\javaTool\apache-maven-3.6.0\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showVisibilityIcons" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
