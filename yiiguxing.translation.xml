@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="651" />
+    <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="The AWS Toolkit for JetBrains makes it easier to write applications built on Amazon Web Services. If you come across bugs with the toolkit or have feature requests, please raise an issue on our GitHub repository." />
       <item value="同步播放 for (String devId : startProgeam.getDevices()) { DeviceRemoteConfig.getAll().stream().filter(device -&gt; devId.equals(device.getDevId())).findAny().ifPresent(deviceRemoteConfig -&gt; { novaDeviceHandle.nvSetTimeAndZoneAsync(deviceRemoteConfig); }); }" />
       <item value="YYYY-MM-DD" />
       <item value="Login Resp" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1632650392717" />
