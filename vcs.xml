@@ -10,9 +10,13 @@
           <option name="url" value="git@20.21.1.137:techarch/lsjczl4/lsjczl-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhaojun123/domainmanage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\project\YIDONG\丽水" />
+    <option name="cloneParentDir" value="D:\project\Demo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
