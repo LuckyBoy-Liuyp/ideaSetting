@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="事业单位基础信息表实体类" />
       <item value="LOGIN" />
       <item value="The AWS Toolkit for JetBrains makes it easier to write applications built on Amazon Web Services. If you come across bugs with the toolkit or have feature requests, please raise an issue on our GitHub repository." />
       <item value="同步播放 for (String devId : startProgeam.getDevices()) { DeviceRemoteConfig.getAll().stream().filter(device -&gt; devId.equals(device.getDevId())).findAny().ifPresent(deviceRemoteConfig -&gt; { novaDeviceHandle.nvSetTimeAndZoneAsync(deviceRemoteConfig); }); }" />
