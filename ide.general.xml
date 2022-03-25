@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
     <option name="showTipsOnStartup" value="false" />
-    <option name="supportScreenReaders" value="true" />
   </component>
 </application>
