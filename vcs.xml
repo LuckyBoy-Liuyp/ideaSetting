@@ -22,9 +22,13 @@
           <option name="url" value="git@20.21.1.215:techarch/nanxunzhihuiwlt/nanxun-wlt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/geekhekr/iotos-soft-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\project\YUNO\nanxun" />
+    <option name="cloneParentDir" value="D:\project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
