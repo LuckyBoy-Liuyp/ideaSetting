@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="find By Category Id" />
       <item value="事业单位基础信息表实体类" />
       <item value="LOGIN" />
       <item value="The AWS Toolkit for JetBrains makes it easier to write applications built on Amazon Web Services. If you come across bugs with the toolkit or have feature requests, please raise an issue on our GitHub repository." />
@@ -14,10 +15,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632650392717" />
+    <option name="lastTrimTime" value="1661407886093" />
   </component>
 </application>
