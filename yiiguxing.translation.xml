@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="Creates a new AtomicStampedReference with the given initial values. Params: initialRef – the initial reference initialStamp – the initial stamp" />
       <item value="delete a timeseries, including data and schema" />
       <item value="data with time stamp less than or equal to time will be deleted" />
       <item value="find By Category Id" />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
