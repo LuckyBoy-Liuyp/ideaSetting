@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="Http Client Util" />
       <item value="group by" />
       <item value="Creates a new AtomicStampedReference with the given initial values. Params: initialRef – the initial reference initialStamp – the initial stamp" />
       <item value="delete a timeseries, including data and schema" />
@@ -18,12 +19,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662543807407" />
+    <option name="lastTrimTime" value="1663921387978" />
   </component>
 </application>
