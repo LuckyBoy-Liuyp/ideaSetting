@@ -46,6 +46,10 @@
           <option name="url" value="http://20.21.1.215:6008/techarch/lsjczl4/lsjczl-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://20.21.1.215:6008/techarch/g4sp/g4sp-icloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project\YUNO" />
