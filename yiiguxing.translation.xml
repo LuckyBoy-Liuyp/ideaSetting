@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="set" />
       <item value="Http Client Util" />
       <item value="group by" />
       <item value="Creates a new AtomicStampedReference with the given initial values. Params: initialRef – the initial reference initialStamp – the initial stamp" />
