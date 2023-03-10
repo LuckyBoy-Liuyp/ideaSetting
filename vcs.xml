@@ -62,9 +62,13 @@
           <option name="url" value="http://20.21.1.215:6008/techarch/nanxunzhihuiwlt/nanxun-wlt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/52itstyle/spring-boot-pay.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\project\YUNO" />
+    <option name="cloneParentDir" value="D:\project\other" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
