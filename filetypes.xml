@@ -1,20 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="AppointmentMapper" type="AUTO_DETECTED" />
       <mapping pattern="dokerFile" type="AUTO_DETECTED" />
       <mapping pattern="20221223_liuyp.sql" type="AUTO_DETECTED" />
       <mapping pattern="DockerFile" type="AUTO_DETECTED" />
       <mapping pattern="20230228_liuyp" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="AppointmentMapper" type="AUTO_DETECTED" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="sql " type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="vue" approved="true" type="HTML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
