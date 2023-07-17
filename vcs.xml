@@ -71,6 +71,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://gitee.com/anji-plus/report.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/youseries/ureport.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
