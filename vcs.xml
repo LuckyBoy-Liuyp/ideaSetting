@@ -110,6 +110,14 @@
           <option name="url" value="https://gitee.com/lemur/aicode.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gcdd1993/jpa-codegen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/comYLScn/jpa-faster.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project\other" />
