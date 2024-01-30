@@ -130,6 +130,10 @@
           <option name="url" value="https://gitee.com/smartboot/smart-license.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.dcyun.com/front-wisdom-net/bigdata/api/data-governance/data-aggregation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project\other" />
