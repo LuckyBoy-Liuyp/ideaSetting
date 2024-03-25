@@ -20,6 +20,7 @@
                 <option name="modelLevel" value="large" />
               </CloudModelManualTrigger>
             </option>
+            <option name="showInlineWhenIDECompletion" value="true" />
           </CloudModelParam>
         </option>
         <option name="local">
@@ -33,11 +34,28 @@
     </option>
     <option name="recentQueries">
       <map>
+        <entry key="answerer_server|1780516383653258">
+          <value>
+            <list>
+              <option value="使用java语言将列表数据导出为pdf" />
+            </list>
+          </value>
+        </entry>
         <entry key="data-aggregation|1780516383653258">
           <value>
             <list>
               <option value="@灵码 开盲盒" />
               <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
+        <entry key="ekp|1780516383653258">
+          <value>
+            <list>
+              <option value="使用java将列表数据导出为pfd" />
+              <option value="使用java语言将列表数据导出为pdf" />
+              <option value="在上边的基础上生成表单" />
+              <option value="生成带有表单的pdf" />
             </list>
           </value>
         </entry>
