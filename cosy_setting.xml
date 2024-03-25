@@ -40,6 +40,13 @@
               <option value="使用java语言将列表数据导出为pdf" />
               <option value="将列表数据改为列表对象" />
               <option value="使用上边的代码生成的pdf中文字符没展示" />
+              <option value="使用itext7生成有表单的pdf" />
+              <option value="使用itext7生成pdf" />
+              <option value="不支持中文" />
+              <option value="document.setDefaultFont 该方法不存在" />
+              <option value="如何带有表格" />
+              <option value="setWidthPercent(100) 方法不支持" />
+              <option value="Color.LIGHT_GRAY和Color.BLACK不存在" />
             </list>
           </value>
         </entry>
