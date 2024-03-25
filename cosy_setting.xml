@@ -39,6 +39,7 @@
               <option value="使用java语言将列表数据导出为pdf" />
               <option value="使用java语言将列表数据导出为pdf" />
               <option value="将列表数据改为列表对象" />
+              <option value="使用上边的代码生成的pdf中文字符没展示" />
             </list>
           </value>
         </entry>
