@@ -48,6 +48,7 @@
               <option value="setWidthPercent(100) 方法不支持" />
               <option value="Color.LIGHT_GRAY和Color.BLACK不存在" />
               <option value="上述表格中使用对象传参" />
+              <option value="使用java爬取网页并模拟点击实现" />
             </list>
           </value>
         </entry>
