@@ -36,9 +36,6 @@
         <entry key="answerer_server|1780516383653258">
           <value>
             <list>
-              <option value="使用java语言将列表数据导出为pdf" />
-              <option value="使用java语言将列表数据导出为pdf" />
-              <option value="将列表数据改为列表对象" />
               <option value="使用上边的代码生成的pdf中文字符没展示" />
               <option value="使用itext7生成有表单的pdf" />
               <option value="使用itext7生成pdf" />
@@ -56,6 +53,9 @@
               <option value="使用itextpdf7将百度网页生成pdf" />
               <option value="使用iText将网页转换成pdf" />
               <option value="给出最新稳定的依赖信息" />
+              <option value="Clean up the broken artifacts data (.lastUpdated files) and reload the project." />
+              <option value="Clean up the broken artifacts data (.lastUpdated files) and reload the project. 怎么解决" />
+              <option value="使用itext7将百度页面生成为pdf" />
             </list>
           </value>
         </entry>
