@@ -52,6 +52,10 @@
               <option value="/explain code" />
               <option value="访问的地址如何传递请求参数" />
               <option value="如何传递header" />
+              <option value="使用java 将百度的网页生成为pdf" />
+              <option value="使用itextpdf7将百度网页生成pdf" />
+              <option value="使用iText将网页转换成pdf" />
+              <option value="给出最新稳定的依赖信息" />
             </list>
           </value>
         </entry>
