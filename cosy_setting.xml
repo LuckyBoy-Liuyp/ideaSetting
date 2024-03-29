@@ -77,6 +77,14 @@
             </list>
           </value>
         </entry>
+        <entry key="simple|1780516383653258">
+          <value>
+            <list>
+              <option value="如何解决" />
+              <option value="FileInputStream转string" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showCheckReportUsage" value="false" />
