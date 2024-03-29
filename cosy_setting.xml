@@ -36,8 +36,6 @@
         <entry key="answerer_server|1780516383653258">
           <value>
             <list>
-              <option value="现在的pdf中没内容" />
-              <option value="Cannot resolve method 'getInstance' in 'PdfWriter'" />
               <option value="Cannot resolve method 'connect' in 'Jsoup'" />
               <option value="引入哪些依赖" />
               <option value="Cannot resolve constructor 'PdfReader(java.io.ByteArrayOutputStream)" />
@@ -56,6 +54,8 @@
               <option value="使用了哪个依赖" />
               <option value="使用htmltopdf将url转换pdf" />
               <option value="使用wkhtmltopdf将url转换pdf" />
+              <option value="java FlyingSaucer url生成pdf" />
+              <option value="依赖有哪些" />
             </list>
           </value>
         </entry>
