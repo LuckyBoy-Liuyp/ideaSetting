@@ -36,8 +36,6 @@
         <entry key="answerer_server|1780516383653258">
           <value>
             <list>
-              <option value="访问的地址如何传递请求参数" />
-              <option value="如何传递header" />
               <option value="使用java 将百度的网页生成为pdf" />
               <option value="使用itextpdf7将百度网页生成pdf" />
               <option value="使用iText将网页转换成pdf" />
@@ -56,6 +54,8 @@
               <option value="出现Unsupported pseudo css selector: :-ms-input-placeholder" />
               <option value="出现找不到 chunk-vendors.45c9fe45.css" />
               <option value="css缺失问题怎么解决" />
+              <option value="itext7生成pdf" />
+              <option value="itext7将html生成pdf" />
             </list>
           </value>
         </entry>
