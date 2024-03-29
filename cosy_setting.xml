@@ -82,6 +82,9 @@
             <list>
               <option value="如何解决" />
               <option value="FileInputStream转string" />
+              <option value="Cannot resolve symbol 'PDFWriter'" />
+              <option value="com.itextpdf.text.pdf.PdfWriter的依赖是哪个" />
+              <option value="XMLWorkerHelper 是哪个依赖中的" />
             </list>
           </value>
         </entry>
