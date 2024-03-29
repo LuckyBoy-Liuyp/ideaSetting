@@ -86,6 +86,9 @@
               <option value="com.itextpdf.text.pdf.PdfWriter的依赖是哪个" />
               <option value="XMLWorkerHelper 是哪个依赖中的" />
               <option value="给出jsoup举例" />
+              <option value="依赖信息" />
+              <option value="InputStream转string" />
+              <option value="IOUtils 依赖信息" />
             </list>
           </value>
         </entry>
