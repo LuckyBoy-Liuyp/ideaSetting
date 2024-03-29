@@ -85,6 +85,7 @@
               <option value="Cannot resolve symbol 'PDFWriter'" />
               <option value="com.itextpdf.text.pdf.PdfWriter的依赖是哪个" />
               <option value="XMLWorkerHelper 是哪个依赖中的" />
+              <option value="给出jsoup举例" />
             </list>
           </value>
         </entry>
