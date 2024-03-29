@@ -36,10 +36,6 @@
         <entry key="answerer_server|1780516383653258">
           <value>
             <list>
-              <option value="使用java 将百度的网页生成为pdf" />
-              <option value="使用itextpdf7将百度网页生成pdf" />
-              <option value="使用iText将网页转换成pdf" />
-              <option value="给出最新稳定的依赖信息" />
               <option value="Clean up the broken artifacts data (.lastUpdated files) and reload the project." />
               <option value="Clean up the broken artifacts data (.lastUpdated files) and reload the project. 怎么解决" />
               <option value="使用itext7将百度页面生成为pdf" />
@@ -56,6 +52,10 @@
               <option value="css缺失问题怎么解决" />
               <option value="itext7生成pdf" />
               <option value="itext7将html生成pdf" />
+              <option value="请确认是否支持itext7" />
+              <option value="编译报错" />
+              <option value="Cannot resolve method 'addFont(com.itextpdf.kernel.font.PdfFont)'" />
+              <option value="Cannot resolve method 'addFont(com.itextpdf.kernel.font.PdfFont)'" />
             </list>
           </value>
         </entry>
