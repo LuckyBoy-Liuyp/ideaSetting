@@ -36,9 +36,6 @@
         <entry key="answerer_server|1780516383653258">
           <value>
             <list>
-              <option value="Clean up the broken artifacts data (.lastUpdated files) and reload the project." />
-              <option value="Clean up the broken artifacts data (.lastUpdated files) and reload the project. 怎么解决" />
-              <option value="使用itext7将百度页面生成为pdf" />
               <option value="现在的pdf中没内容" />
               <option value="Cannot resolve method 'getInstance' in 'PdfWriter'" />
               <option value="Cannot resolve method 'connect' in 'Jsoup'" />
@@ -56,6 +53,9 @@
               <option value="编译报错" />
               <option value="Cannot resolve method 'addFont(com.itextpdf.kernel.font.PdfFont)'" />
               <option value="Cannot resolve method 'addFont(com.itextpdf.kernel.font.PdfFont)'" />
+              <option value="使用了哪个依赖" />
+              <option value="使用htmltopdf将url转换pdf" />
+              <option value="使用wkhtmltopdf将url转换pdf" />
             </list>
           </value>
         </entry>
