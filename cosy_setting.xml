@@ -89,6 +89,7 @@
               <option value="依赖信息" />
               <option value="InputStream转string" />
               <option value="IOUtils 依赖信息" />
+              <option value="html数据未进行渲染" />
             </list>
           </value>
         </entry>
