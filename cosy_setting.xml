@@ -80,10 +80,6 @@
         <entry key="simple|1780516383653258">
           <value>
             <list>
-              <option value="如何解决" />
-              <option value="FileInputStream转string" />
-              <option value="Cannot resolve symbol 'PDFWriter'" />
-              <option value="com.itextpdf.text.pdf.PdfWriter的依赖是哪个" />
               <option value="XMLWorkerHelper 是哪个依赖中的" />
               <option value="给出jsoup举例" />
               <option value="依赖信息" />
@@ -94,6 +90,16 @@
               <option value="ChromeOptions  是哪个依赖下的" />
               <option value="java有吗" />
               <option value="如何引入" />
+              <option value="ChromeDriver 是哪个依赖中的" />
+              <option value="java中如何使用" />
+              <option value="java ChromeDriver 爬取页面生成pdf" />
+              <option value="引入了哪些依赖以及版本" />
+              <option value="是哪个依赖哪个版本的" />
+              <option value="请给出相应依赖" />
+              <option value="请给出依赖配置" />
+              <option value="org.openqa.selenium.print.Printer 是哪个依赖中的" />
+              <option value="java 使用ChromeDriver 页面导出为pdf" />
+              <option value="换一种实现方式" />
             </list>
           </value>
         </entry>
