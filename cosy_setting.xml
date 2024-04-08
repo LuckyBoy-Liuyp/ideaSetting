@@ -83,8 +83,6 @@
         <entry key="simple|1780516383653258">
           <value>
             <list>
-              <option value="XMLWorkerHelper 是哪个依赖中的" />
-              <option value="给出jsoup举例" />
               <option value="依赖信息" />
               <option value="InputStream转string" />
               <option value="IOUtils 依赖信息" />
@@ -103,6 +101,8 @@
               <option value="org.openqa.selenium.print.Printer 是哪个依赖中的" />
               <option value="java 使用ChromeDriver 页面导出为pdf" />
               <option value="换一种实现方式" />
+              <option value="jackson 对象转换xml" />
+              <option value="然后生成xml文件" />
             </list>
           </value>
         </entry>
