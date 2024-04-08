@@ -74,6 +74,9 @@
               <option value="使用java语言将列表数据导出为pdf" />
               <option value="在上边的基础上生成表单" />
               <option value="生成带有表单的pdf" />
+              <option value="java 对象转xml" />
+              <option value="哪种耦合性第，便于扩展" />
+              <option value="java 对象转xml" />
             </list>
           </value>
         </entry>
