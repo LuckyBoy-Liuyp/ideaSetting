@@ -83,7 +83,6 @@
         <entry key="simple|1780516383653258">
           <value>
             <list>
-              <option value="InputStream转string" />
               <option value="IOUtils 依赖信息" />
               <option value="html数据未进行渲染" />
               <option value="HtmlToPdfInterceptor 是哪个依赖" />
@@ -103,6 +102,7 @@
               <option value="jackson 对象转换xml" />
               <option value="然后生成xml文件" />
               <option value="如何将对象数据添加到某个xml节点中" />
+              <option value="java生成xml" />
             </list>
           </value>
         </entry>
