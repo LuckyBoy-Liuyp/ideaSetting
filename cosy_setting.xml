@@ -84,7 +84,6 @@
         <entry key="simple|1780516383653258">
           <value>
             <list>
-              <option value="HtmlToPdfInterceptor 是哪个依赖" />
               <option value="ChromeOptions  是哪个依赖下的" />
               <option value="java有吗" />
               <option value="如何引入" />
@@ -104,6 +103,7 @@
               <option value="java生成xml" />
               <option value="是哪个依赖下的" />
               <option value="使用dom4j生成xml" />
+              <option value="如何插入java对象" />
             </list>
           </value>
         </entry>
