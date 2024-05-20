@@ -84,10 +84,6 @@
         <entry key="simple|1780516383653258">
           <value>
             <list>
-              <option value="java有吗" />
-              <option value="如何引入" />
-              <option value="ChromeDriver 是哪个依赖中的" />
-              <option value="java中如何使用" />
               <option value="java ChromeDriver 爬取页面生成pdf" />
               <option value="引入了哪些依赖以及版本" />
               <option value="是哪个依赖哪个版本的" />
@@ -104,6 +100,10 @@
               <option value="使用dom4j生成xml" />
               <option value="如何插入java对象" />
               <option value="如何便捷载入对象集合" />
+              <option value="xStream 集合转换会出现list标签" />
+              <option value="ArrayList 怎么去除list标签" />
+              <option value="xStream 集合转换会出现list标签 如何去除" />
+              <option value="没有效果 出现了&lt;xml.ObjToXml_-1Wrapper&gt;标签" />
             </list>
           </value>
         </entry>
