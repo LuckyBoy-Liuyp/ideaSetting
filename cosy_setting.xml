@@ -84,7 +84,6 @@
         <entry key="simple|1780516383653258">
           <value>
             <list>
-              <option value="请给出依赖配置" />
               <option value="org.openqa.selenium.print.Printer 是哪个依赖中的" />
               <option value="java 使用ChromeDriver 页面导出为pdf" />
               <option value="换一种实现方式" />
@@ -104,6 +103,7 @@
               <option value="压缩文件不压缩文件夹" />
               <option value="将文件打包为zip" />
               <option value="获取文件大小" />
+              <option value="java修改文件后缀名" />
             </list>
           </value>
         </entry>
