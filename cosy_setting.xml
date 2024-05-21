@@ -84,26 +84,26 @@
         <entry key="simple|1780516383653258">
           <value>
             <list>
-              <option value="org.openqa.selenium.print.Printer 是哪个依赖中的" />
-              <option value="java 使用ChromeDriver 页面导出为pdf" />
-              <option value="换一种实现方式" />
-              <option value="jackson 对象转换xml" />
-              <option value="然后生成xml文件" />
-              <option value="如何将对象数据添加到某个xml节点中" />
-              <option value="java生成xml" />
-              <option value="是哪个依赖下的" />
-              <option value="使用dom4j生成xml" />
-              <option value="如何插入java对象" />
-              <option value="如何便捷载入对象集合" />
-              <option value="xStream 集合转换会出现list标签" />
-              <option value="ArrayList 怎么去除list标签" />
-              <option value="xStream 集合转换会出现list标签 如何去除" />
-              <option value="没有效果 出现了&lt;xml.ObjToXml_-1Wrapper&gt;标签" />
               <option value="java 将文件压缩为zip" />
               <option value="压缩文件不压缩文件夹" />
               <option value="将文件打包为zip" />
               <option value="获取文件大小" />
               <option value="java修改文件后缀名" />
+              <option value="设置为与父级同级" />
+              <option value="对于集合参数无效" />
+              <option value="如何追加text" />
+              <option value="Element如何追加text" />
+              <option value="Element setText与addText 的区别" />
+              <option value="xStream 隐藏属性" />
+              <option value="出现&lt;xml.ContentFile&gt; 标签 怎么去除" />
+              <option value="有没有更简便点的方法" />
+              <option value="java对象转xml的方法有哪些" />
+              <option value="哪一个更容易上手" />
+              <option value="JAXB 如何使用" />
+              <option value="JAXB配合dom4j实例" />
+              <option value="XStream 详解" />
+              <option value="XStream 注释解释" />
+              <option value="@XStreamImplicit如何使用" />
             </list>
           </value>
         </entry>
