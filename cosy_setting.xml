@@ -84,7 +84,6 @@
         <entry key="simple|1780516383653258">
           <value>
             <list>
-              <option value="将文件打包为zip" />
               <option value="获取文件大小" />
               <option value="java修改文件后缀名" />
               <option value="设置为与父级同级" />
@@ -104,6 +103,7 @@
               <option value="@XStreamImplicit如何使用" />
               <option value="修改zip后缀名" />
               <option value="java 修改zip后缀名" />
+              <option value="springboot 集成sftp" />
             </list>
           </value>
         </entry>
