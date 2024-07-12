@@ -75,6 +75,8 @@
               <option value="cron 每天12点和1点执行" />
               <option value="cron中 / 什么意思" />
               <option value="cron中 ， 什么意思" />
+              <option value="cron 每小时执行一次 怎么设置" />
+              <option value="cron 每2小时执行一次 怎么设置" />
             </list>
           </value>
         </entry>
