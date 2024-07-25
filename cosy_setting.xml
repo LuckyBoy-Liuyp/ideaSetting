@@ -83,6 +83,11 @@
               <option value="private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService;   Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
               <option value="@Autowired&#10;  private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService;  出现 Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
               <option value="JSON.parseObject   @JsonAlias 不生效" />
+              <option value="/explain code" />
+              <option value="/generate optimization" />
+              <option value="@Autowired&#10;  private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService; z注入失败" />
+              <option value="一个接口多个实现类 如何动态调用" />
+              <option value="将接口IArchiveSyncServiceBase使用工厂模式实现" />
             </list>
           </value>
         </entry>
