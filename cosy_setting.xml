@@ -90,6 +90,7 @@
               <option value="将接口IArchiveSyncServiceBase使用工厂模式实现" />
               <option value="Failed to instantiate [com.dcxx.data.ekp.service.archive.ArchiveSyncServiceFactory]: Constructor threw exception; nested exception is java.lang.NullPointerException" />
               <option value="bean在初始化是获取不到ApplicationContext" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
