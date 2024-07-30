@@ -88,6 +88,8 @@
               <option value="@Autowired&#10;  private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService; z注入失败" />
               <option value="一个接口多个实现类 如何动态调用" />
               <option value="将接口IArchiveSyncServiceBase使用工厂模式实现" />
+              <option value="Failed to instantiate [com.dcxx.data.ekp.service.archive.ArchiveSyncServiceFactory]: Constructor threw exception; nested exception is java.lang.NullPointerException" />
+              <option value="bean在初始化是获取不到ApplicationContext" />
             </list>
           </value>
         </entry>
