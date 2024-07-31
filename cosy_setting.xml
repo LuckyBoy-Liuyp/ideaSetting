@@ -71,7 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="cron = &quot;0 0 12/0 * * ?&quot;" />
               <option value="cron 每天12点和1点执行" />
               <option value="cron中 / 什么意思" />
               <option value="cron中 ， 什么意思" />
@@ -91,6 +90,7 @@
               <option value="Failed to instantiate [com.dcxx.data.ekp.service.archive.ArchiveSyncServiceFactory]: Constructor threw exception; nested exception is java.lang.NullPointerException" />
               <option value="bean在初始化是获取不到ApplicationContext" />
               <option value="/generate optimization" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
