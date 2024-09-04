@@ -71,8 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="cron中 ， 什么意思" />
-              <option value="cron 每小时执行一次 怎么设置" />
               <option value="cron 每2小时执行一次 怎么设置" />
               <option value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
               <option value="private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService;" />
@@ -91,6 +89,8 @@
               <option value="/explain code" />
               <option value="每隔十分钟执行如何编写" />
               <option value="/explain code" />
+              <option value="文件生成" />
+              <option value="创建文件的方法" />
             </list>
           </value>
         </entry>
