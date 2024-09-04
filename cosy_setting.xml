@@ -71,8 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="cron 每天12点和1点执行" />
-              <option value="cron中 / 什么意思" />
               <option value="cron中 ， 什么意思" />
               <option value="cron 每小时执行一次 怎么设置" />
               <option value="cron 每2小时执行一次 怎么设置" />
@@ -90,6 +88,8 @@
               <option value="Failed to instantiate [com.dcxx.data.ekp.service.archive.ArchiveSyncServiceFactory]: Constructor threw exception; nested exception is java.lang.NullPointerException" />
               <option value="bean在初始化是获取不到ApplicationContext" />
               <option value="/generate optimization" />
+              <option value="/explain code" />
+              <option value="每隔十分钟执行如何编写" />
               <option value="/explain code" />
             </list>
           </value>
