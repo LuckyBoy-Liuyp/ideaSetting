@@ -71,10 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="@Autowired&#10;  private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService;  出现 Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
-              <option value="JSON.parseObject   @JsonAlias 不生效" />
-              <option value="/explain code" />
-              <option value="/generate optimization" />
               <option value="@Autowired&#10;  private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService; z注入失败" />
               <option value="一个接口多个实现类 如何动态调用" />
               <option value="将接口IArchiveSyncServiceBase使用工厂模式实现" />
@@ -91,6 +87,10 @@
               <option value="该接口如何传入参数" />
               <option value="泛型对象如何传参请给出示例" />
               <option value="获取 javax.persistence.Table的name值" />
+              <option value="不使用占位符" />
+              <option value="不使用占位符传参" />
+              <option value="@Query 表名参数传参" />
+              <option value="提示 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hekou.view_prj_arch_content_bmp_crmpm' a left join hekou.prj_arch_records_test ' at line 1" />
             </list>
           </value>
         </entry>
