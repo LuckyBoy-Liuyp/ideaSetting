@@ -71,7 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService;   Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
               <option value="@Autowired&#10;  private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService;  出现 Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
               <option value="JSON.parseObject   @JsonAlias 不生效" />
               <option value="/explain code" />
@@ -91,6 +90,7 @@
               <option value="/explain code" />
               <option value="该接口如何传入参数" />
               <option value="泛型对象如何传参请给出示例" />
+              <option value="获取 javax.persistence.Table的name值" />
             </list>
           </value>
         </entry>
