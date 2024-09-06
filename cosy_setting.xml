@@ -71,7 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="/generate optimization" />
               <option value="/explain code" />
               <option value="每隔十分钟执行如何编写" />
               <option value="/explain code" />
@@ -91,6 +90,7 @@
               <option value="@Query ?赋值多参数如何编写" />
               <option value="出现 but parameter 'Optional[tableName]' not found in annotated query" />
               <option value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hekou.view_prj_arch_content_bmp_crmpm' a left join hekou.prj_arch_records_test ' at line 1" />
+              <option value="org.springframework.data.jpa.repository.Query 表名传参" />
             </list>
           </value>
         </entry>
