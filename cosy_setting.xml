@@ -72,8 +72,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="每隔十分钟执行如何编写" />
-              <option value="/explain code" />
               <option value="文件生成" />
               <option value="创建文件的方法" />
               <option value="No property 'create' found for type 'PrjArchRecords'" />
@@ -91,6 +89,8 @@
               <option value="出现 but parameter 'Optional[tableName]' not found in annotated query" />
               <option value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hekou.view_prj_arch_content_bmp_crmpm' a left join hekou.prj_arch_records_test ' at line 1" />
               <option value="org.springframework.data.jpa.repository.Query 表名传参" />
+              <option value="but parameter 'Optional[tableName]' not found in annotated query" />
+              <option value="出现 Mixed parameter strategies - use just one of named, positional or JPA-ordinal strategy" />
             </list>
           </value>
         </entry>
