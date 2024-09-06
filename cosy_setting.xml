@@ -71,10 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="@Autowired&#10;  private List&lt;IArchiveSyncServiceBase&gt; archiveSyncService; z注入失败" />
-              <option value="一个接口多个实现类 如何动态调用" />
-              <option value="将接口IArchiveSyncServiceBase使用工厂模式实现" />
-              <option value="Failed to instantiate [com.dcxx.data.ekp.service.archive.ArchiveSyncServiceFactory]: Constructor threw exception; nested exception is java.lang.NullPointerException" />
               <option value="bean在初始化是获取不到ApplicationContext" />
               <option value="/generate optimization" />
               <option value="/explain code" />
@@ -91,6 +87,10 @@
               <option value="不使用占位符传参" />
               <option value="@Query 表名参数传参" />
               <option value="提示 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hekou.view_prj_arch_content_bmp_crmpm' a left join hekou.prj_arch_records_test ' at line 1" />
+              <option value="@Query : ?的区别" />
+              <option value="@Query :与 ?的区别" />
+              <option value="@Query ?赋值多参数如何编写" />
+              <option value="出现 but parameter 'Optional[tableName]' not found in annotated query" />
             </list>
           </value>
         </entry>
