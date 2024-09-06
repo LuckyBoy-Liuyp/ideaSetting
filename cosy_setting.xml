@@ -71,8 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="文件生成" />
               <option value="创建文件的方法" />
               <option value="No property 'create' found for type 'PrjArchRecords'" />
               <option value="/explain code" />
@@ -91,6 +89,8 @@
               <option value="org.springframework.data.jpa.repository.Query 表名传参" />
               <option value="but parameter 'Optional[tableName]' not found in annotated query" />
               <option value="出现 Mixed parameter strategies - use just one of named, positional or JPA-ordinal strategy" />
+              <option value="jpa service获取实例对象" />
+              <option value="jpa service获取Entity对象名" />
             </list>
           </value>
         </entry>
