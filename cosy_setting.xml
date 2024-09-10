@@ -71,8 +71,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="创建文件的方法" />
-              <option value="No property 'create' found for type 'PrjArchRecords'" />
               <option value="/explain code" />
               <option value="该接口如何传入参数" />
               <option value="泛型对象如何传参请给出示例" />
@@ -91,6 +89,8 @@
               <option value="出现 Mixed parameter strategies - use just one of named, positional or JPA-ordinal strategy" />
               <option value="jpa service获取实例对象" />
               <option value="jpa service获取Entity对象名" />
+              <option value="@DynamicUpdate 无效" />
+              <option value="使用了@DynamicUpdate 字段publishStatus为空时还是被更新了" />
             </list>
           </value>
         </entry>
