@@ -109,6 +109,22 @@
             </list>
           </value>
         </entry>
+        <entry key="nodetest|1780516383653258">
+          <value>
+            <list>
+              <option value="D:\project\vue\nodetest\node_modules\puppeteer-core\lib\cjs\puppeteer\common\EventEmitter.js:129&#10;        return this.eventsMap.get(event)?.length || 0;" />
+              <option value="npm 如何升级" />
+              <option value="npm删除依赖" />
+              <option value="nvm安装node" />
+              <option value="nvm 更新地址" />
+              <option value="nvm 更新数据源地址" />
+              <option value="nvm install 14.17.6&#10;&#10;Could not retrieve https://nodejs.org/dist/latest/SHASUMS256.txt.&#10;&#10;&#10;Get &quot;https://nodejs.org/dist/latest/SHASUMS256.txt&quot;: dial tcp 104.20.23.46:443: i/o timeout 执行保存" />
+              <option value="npm register" />
+              <option value="nvm 更改镜像地址" />
+              <option value="nvm install 14.17.6&#10;&#10;Could not retrieve https://nodejs.org/dist/latest/SHASUMS256.txt.&#10;&#10;&#10;Get &quot;https://nodejs.org/dist/latest/SHASUMS256.txt&quot;: dial tcp 104.20.23.46:443: i/o timeout" />
+            </list>
+          </value>
+        </entry>
         <entry key="simple|1780516383653258">
           <value>
             <list>
