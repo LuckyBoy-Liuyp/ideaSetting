@@ -73,7 +73,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="该接口如何传入参数" />
               <option value="泛型对象如何传参请给出示例" />
               <option value="获取 javax.persistence.Table的name值" />
@@ -93,6 +92,7 @@
               <option value="jpa service获取Entity对象名" />
               <option value="@DynamicUpdate 无效" />
               <option value="使用了@DynamicUpdate 字段publishStatus为空时还是被更新了" />
+              <option value="in语法 如何使用" />
             </list>
           </value>
         </entry>
