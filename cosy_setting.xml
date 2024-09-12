@@ -73,7 +73,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="不使用占位符" />
               <option value="不使用占位符传参" />
               <option value="@Query 表名参数传参" />
               <option value="提示 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hekou.view_prj_arch_content_bmp_crmpm' a left join hekou.prj_arch_records_test ' at line 1" />
@@ -93,6 +92,7 @@
               <option value="mysql 时间转换" />
               <option value="将 20240907 转换为mysql时间" />
               <option value="将 20240907 转换为mysql时间，以供查询条件使用" />
+              <option value="mysql 查询当天的数据 如何写" />
             </list>
           </value>
         </entry>
