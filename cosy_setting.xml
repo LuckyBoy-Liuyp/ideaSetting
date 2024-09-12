@@ -73,9 +73,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="该接口如何传入参数" />
-              <option value="泛型对象如何传参请给出示例" />
-              <option value="获取 javax.persistence.Table的name值" />
               <option value="不使用占位符" />
               <option value="不使用占位符传参" />
               <option value="@Query 表名参数传参" />
@@ -93,6 +90,9 @@
               <option value="@DynamicUpdate 无效" />
               <option value="使用了@DynamicUpdate 字段publishStatus为空时还是被更新了" />
               <option value="in语法 如何使用" />
+              <option value="mysql 时间转换" />
+              <option value="将 20240907 转换为mysql时间" />
+              <option value="将 20240907 转换为mysql时间，以供查询条件使用" />
             </list>
           </value>
         </entry>
