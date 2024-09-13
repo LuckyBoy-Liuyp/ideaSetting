@@ -73,11 +73,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="@Query 表名参数传参" />
-              <option value="提示 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hekou.view_prj_arch_content_bmp_crmpm' a left join hekou.prj_arch_records_test ' at line 1" />
-              <option value="@Query : ?的区别" />
-              <option value="@Query :与 ?的区别" />
-              <option value="@Query ?赋值多参数如何编写" />
               <option value="出现 but parameter 'Optional[tableName]' not found in annotated query" />
               <option value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hekou.view_prj_arch_content_bmp_crmpm' a left join hekou.prj_arch_records_test ' at line 1" />
               <option value="org.springframework.data.jpa.repository.Query 表名传参" />
@@ -93,6 +88,11 @@
               <option value="将 20240907 转换为mysql时间，以供查询条件使用" />
               <option value="mysql 查询当天的数据 如何写" />
               <option value="Error: Cannot find module 'puppeteer'" />
+              <option value="Cannot resolve method 'executeScript' in 'WebDriver'" />
+              <option value="java 使用chrome.exe 将html转换为pdf" />
+              <option value="请给出selenium-java4.3.0版本的代码" />
+              <option value="Cannot resolve method 'print' in 'WebDriver'" />
+              <option value="需要哪些依赖" />
             </list>
           </value>
         </entry>
@@ -122,6 +122,11 @@
               <option value="npm register" />
               <option value="nvm 更改镜像地址" />
               <option value="nvm install 14.17.6&#10;&#10;Could not retrieve https://nodejs.org/dist/latest/SHASUMS256.txt.&#10;&#10;&#10;Get &quot;https://nodejs.org/dist/latest/SHASUMS256.txt&quot;: dial tcp 104.20.23.46:443: i/o timeout" />
+              <option value="nvm  安装node" />
+              <option value="nvm 查看支持哪些node版本" />
+              <option value="&quot;C:\Program Files\nodejs\node.exe&quot; D:\project\vue\nodetest\node1.js&#10;D:\project\vue\nodetest\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:292&#10;                    throw new Error(`Could not find Chrome (ver. ${this.puppeteer.browserVersion}). This can occur if either\n` +&#10;                          ^&#10;&#10;Error: Could not find Chrome (ver. 128.0.6613.119). This can occur if either" />
+              <option value="puppeteer 鉴权" />
+              <option value="java 执行node代码并传参" />
             </list>
           </value>
         </entry>
