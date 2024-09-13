@@ -127,6 +127,7 @@
               <option value="&quot;C:\Program Files\nodejs\node.exe&quot; D:\project\vue\nodetest\node1.js&#10;D:\project\vue\nodetest\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:292&#10;                    throw new Error(`Could not find Chrome (ver. ${this.puppeteer.browserVersion}). This can occur if either\n` +&#10;                          ^&#10;&#10;Error: Could not find Chrome (ver. 128.0.6613.119). This can occur if either" />
               <option value="puppeteer 鉴权" />
               <option value="java 执行node代码并传参" />
+              <option value="nodejs打包" />
             </list>
           </value>
         </entry>
