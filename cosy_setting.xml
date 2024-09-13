@@ -73,7 +73,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="出现 but parameter 'Optional[tableName]' not found in annotated query" />
               <option value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hekou.view_prj_arch_content_bmp_crmpm' a left join hekou.prj_arch_records_test ' at line 1" />
               <option value="org.springframework.data.jpa.repository.Query 表名传参" />
               <option value="but parameter 'Optional[tableName]' not found in annotated query" />
@@ -93,6 +92,7 @@
               <option value="请给出selenium-java4.3.0版本的代码" />
               <option value="Cannot resolve method 'print' in 'WebDriver'" />
               <option value="需要哪些依赖" />
+              <option value="java 调用node.js 并传参" />
             </list>
           </value>
         </entry>
