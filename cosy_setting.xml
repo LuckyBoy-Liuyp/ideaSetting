@@ -128,6 +128,7 @@
               <option value="puppeteer 鉴权" />
               <option value="java 执行node代码并传参" />
               <option value="nodejs打包" />
+              <option value="puppeteer linux怎么调用chrome" />
             </list>
           </value>
         </entry>
