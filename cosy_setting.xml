@@ -129,6 +129,8 @@
               <option value="java 执行node代码并传参" />
               <option value="nodejs打包" />
               <option value="puppeteer linux怎么调用chrome" />
+              <option value="'ncc' 不是内部或外部命令，也不是可运行的程序&#10;或批处理文件。" />
+              <option value="windows配置环境变量多久生效" />
             </list>
           </value>
         </entry>
