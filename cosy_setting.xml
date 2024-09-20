@@ -73,7 +73,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="出现 Mixed parameter strategies - use just one of named, positional or JPA-ordinal strategy" />
               <option value="jpa service获取实例对象" />
               <option value="jpa service获取Entity对象名" />
               <option value="@DynamicUpdate 无效" />
@@ -93,6 +92,7 @@
               <option value="上述node代码中 ${}代表什么意思" />
               <option value="Stirng 拼接" />
               <option value="String占位符拼接" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
