@@ -73,7 +73,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="jpa service获取实例对象" />
               <option value="jpa service获取Entity对象名" />
               <option value="@DynamicUpdate 无效" />
               <option value="使用了@DynamicUpdate 字段publishStatus为空时还是被更新了" />
@@ -93,6 +92,7 @@
               <option value="Stirng 拼接" />
               <option value="String占位符拼接" />
               <option value="/explain code" />
+              <option value="java 如何删除文件" />
             </list>
           </value>
         </entry>
