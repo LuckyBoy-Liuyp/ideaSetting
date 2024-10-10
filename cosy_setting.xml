@@ -80,9 +80,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="mysql 查询当天的数据 如何写" />
-              <option value="Error: Cannot find module 'puppeteer'" />
-              <option value="Cannot resolve method 'executeScript' in 'WebDriver'" />
               <option value="java 使用chrome.exe 将html转换为pdf" />
               <option value="请给出selenium-java4.3.0版本的代码" />
               <option value="Cannot resolve method 'print' in 'WebDriver'" />
@@ -100,6 +97,9 @@
               <option value="入参是ArchBaseBean子类对象 入参定义应该怎么写" />
               <option value="/explain code" />
               <option value="&lt;? extends ArchBaseBean&gt; obj" />
+              <option value="通过反射获取对象属性值" />
+              <option value="通过反射获取对象方法并获取返回值" />
+              <option value="创建一个Class&lt;?&gt;[] 空数组" />
             </list>
           </value>
         </entry>
