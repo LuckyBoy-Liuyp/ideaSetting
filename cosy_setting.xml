@@ -80,8 +80,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="将 20240907 转换为mysql时间" />
-              <option value="将 20240907 转换为mysql时间，以供查询条件使用" />
               <option value="mysql 查询当天的数据 如何写" />
               <option value="Error: Cannot find module 'puppeteer'" />
               <option value="Cannot resolve method 'executeScript' in 'WebDriver'" />
@@ -100,6 +98,8 @@
               <option value="@Entity 字段不参与实例化" />
               <option value="abstract 与class的区别" />
               <option value="入参是ArchBaseBean子类对象 入参定义应该怎么写" />
+              <option value="/explain code" />
+              <option value="&lt;? extends ArchBaseBean&gt; obj" />
             </list>
           </value>
         </entry>
