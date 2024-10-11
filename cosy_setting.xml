@@ -80,9 +80,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="java 使用chrome.exe 将html转换为pdf" />
-              <option value="请给出selenium-java4.3.0版本的代码" />
-              <option value="Cannot resolve method 'print' in 'WebDriver'" />
               <option value="需要哪些依赖" />
               <option value="java 调用node.js 并传参" />
               <option value="上述node代码中 ${}代表什么意思" />
@@ -100,6 +97,9 @@
               <option value="通过反射获取对象属性值" />
               <option value="通过反射获取对象方法并获取返回值" />
               <option value="创建一个Class&lt;?&gt;[] 空数组" />
+              <option value="getDeclaredField 获取不到父级的属性" />
+              <option value="通过泛型调用方法" />
+              <option value="通过泛型调用方法并获取返回值" />
             </list>
           </value>
         </entry>
