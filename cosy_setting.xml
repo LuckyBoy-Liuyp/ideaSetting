@@ -80,7 +80,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="需要哪些依赖" />
               <option value="java 调用node.js 并传参" />
               <option value="上述node代码中 ${}代表什么意思" />
               <option value="Stirng 拼接" />
@@ -100,6 +99,7 @@
               <option value="getDeclaredField 获取不到父级的属性" />
               <option value="通过泛型调用方法" />
               <option value="通过泛型调用方法并获取返回值" />
+              <option value="git 提交代码并附带备注" />
             </list>
           </value>
         </entry>
