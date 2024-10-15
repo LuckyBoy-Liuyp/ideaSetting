@@ -76,6 +76,7 @@
               <option value="/explain code" />
               <option value="Files.copy(Paths.get(&quot;d://file//file//18359816a8d4343fa7f577545c883613&quot;), Paths.get(&quot;d://file//file//123.JPG&quot;)); target文件存在导致报错" />
               <option value="Files.copy(Paths.get(&quot;d://file//file//18359816a8d4343fa7f577545c883613&quot;), Paths.get(&quot;d://file//file//123.JPG&quot;),&#10;        StandardCopyOption.REPLACE_EXISTING); source文件不存在报错" />
+              <option value="n the near feature `headless: true` will default to the new Headless mode&#10;    for Chrome instead of the old Headless implementation. For more&#10;    information, please see https://developer.chrome.com/articles/new-headless/.&#10;    Consider opting in early by passing `headless: &quot;new&quot;` to `puppeteer.launch()`&#10;    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose." />
             </list>
           </value>
         </entry>
