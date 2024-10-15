@@ -74,6 +74,8 @@
           <value>
             <list>
               <option value="/explain code" />
+              <option value="Files.copy(Paths.get(&quot;d://file//file//18359816a8d4343fa7f577545c883613&quot;), Paths.get(&quot;d://file//file//123.JPG&quot;)); target文件存在导致报错" />
+              <option value="Files.copy(Paths.get(&quot;d://file//file//18359816a8d4343fa7f577545c883613&quot;), Paths.get(&quot;d://file//file//123.JPG&quot;),&#10;        StandardCopyOption.REPLACE_EXISTING); source文件不存在报错" />
             </list>
           </value>
         </entry>
