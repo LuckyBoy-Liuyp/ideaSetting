@@ -77,6 +77,8 @@
               <option value="Files.copy(Paths.get(&quot;d://file//file//18359816a8d4343fa7f577545c883613&quot;), Paths.get(&quot;d://file//file//123.JPG&quot;)); target文件存在导致报错" />
               <option value="Files.copy(Paths.get(&quot;d://file//file//18359816a8d4343fa7f577545c883613&quot;), Paths.get(&quot;d://file//file//123.JPG&quot;),&#10;        StandardCopyOption.REPLACE_EXISTING); source文件不存在报错" />
               <option value="n the near feature `headless: true` will default to the new Headless mode&#10;    for Chrome instead of the old Headless implementation. For more&#10;    information, please see https://developer.chrome.com/articles/new-headless/.&#10;    Consider opting in early by passing `headless: &quot;new&quot;` to `puppeteer.launch()`&#10;    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose." />
+              <option value="Runtime.getRuntime().exec(cmd); 可以传递多少字符" />
+              <option value="我用该命令执行nodejs 为什么414后边的字符取不到" />
             </list>
           </value>
         </entry>
@@ -122,8 +124,6 @@
         <entry key="nodetest|1780516383653258">
           <value>
             <list>
-              <option value="npm 如何升级" />
-              <option value="npm删除依赖" />
               <option value="nvm安装node" />
               <option value="nvm 更新地址" />
               <option value="nvm 更新数据源地址" />
@@ -142,6 +142,8 @@
               <option value="windows配置环境变量多久生效" />
               <option value="含义" />
               <option value="/explain code" />
+              <option value="长度限制" />
+              <option value="参数有长度限制吗" />
             </list>
           </value>
         </entry>
