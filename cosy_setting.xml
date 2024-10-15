@@ -81,6 +81,9 @@
               <option value="我用该命令执行nodejs 为什么414后边的字符取不到" />
               <option value="await page.waitForSelector能否根据name进行操作" />
               <option value="await page.waitForSelector 等待最后一个class" />
+              <option value="/explain code" />
+              <option value="等待文本是 结束节点的元素" />
+              <option value="使用waitForFunction来等待某个元素包含特定文本" />
             </list>
           </value>
         </entry>
