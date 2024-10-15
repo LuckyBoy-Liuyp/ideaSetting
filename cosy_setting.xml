@@ -79,6 +79,8 @@
               <option value="n the near feature `headless: true` will default to the new Headless mode&#10;    for Chrome instead of the old Headless implementation. For more&#10;    information, please see https://developer.chrome.com/articles/new-headless/.&#10;    Consider opting in early by passing `headless: &quot;new&quot;` to `puppeteer.launch()`&#10;    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose." />
               <option value="Runtime.getRuntime().exec(cmd); 可以传递多少字符" />
               <option value="我用该命令执行nodejs 为什么414后边的字符取不到" />
+              <option value="await page.waitForSelector能否根据name进行操作" />
+              <option value="await page.waitForSelector 等待最后一个class" />
             </list>
           </value>
         </entry>
