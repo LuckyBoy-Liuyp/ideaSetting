@@ -122,7 +122,6 @@
         <entry key="nodetest|1780516383653258">
           <value>
             <list>
-              <option value="D:\project\vue\nodetest\node_modules\puppeteer-core\lib\cjs\puppeteer\common\EventEmitter.js:129&#10;        return this.eventsMap.get(event)?.length || 0;" />
               <option value="npm 如何升级" />
               <option value="npm删除依赖" />
               <option value="nvm安装node" />
@@ -141,6 +140,8 @@
               <option value="puppeteer linux怎么调用chrome" />
               <option value="'ncc' 不是内部或外部命令，也不是可运行的程序&#10;或批处理文件。" />
               <option value="windows配置环境变量多久生效" />
+              <option value="含义" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
