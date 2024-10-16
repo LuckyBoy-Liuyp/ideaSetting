@@ -128,6 +128,9 @@
               <option value="/explain code" />
               <option value="Hibernate生成的sql有错误请找出，并给出解决方法select count(*) as col_0_0_ from bmp_supmdm_main bmpsupmdmm0_ cross join bmp_supmdm_type_first fdvendorty1_ where bmpsupmdmm0_.fd_id=fdvendorty1_.fd_source_id and (lower(.) like ?)" />
               <option value="这是Hibernate自动生成的 需要修改哪些配置？" />
+              <option value="String模糊匹配" />
+              <option value="java String模糊匹配" />
+              <option value="String字符串替换" />
             </list>
           </value>
         </entry>
