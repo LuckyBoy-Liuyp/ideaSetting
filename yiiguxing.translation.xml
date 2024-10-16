@@ -40,13 +40,14 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="&lt;key property-ref=&quot;com.landray.kmss.bmp.expayment.supmdm.model.BmpSupmdmMain&quot; column=&quot;fd_source_id&quot;&gt;" />
       <item value="&lt;bag name=&quot;fdVendorTypeFirst&quot; table=&quot;bmp_supmdm_type_first&quot; lazy=&quot;true&quot;&gt; &lt;key column=&quot;fd_source_id&quot;&gt; &lt;many-to-many class=&quot;com.landray.kmss.bmp.expayment.supmdm.model.BmpSupmdmType&quot; column=&quot;fd_target_id&quot;&gt; &lt;bag&gt;" />
       <item value="SNAPSHOT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
