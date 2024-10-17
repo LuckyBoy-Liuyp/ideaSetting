@@ -131,6 +131,7 @@
               <option value="String模糊匹配" />
               <option value="java String模糊匹配" />
               <option value="String字符串替换" />
+              <option value="HQLInfo 关联查询" />
             </list>
           </value>
         </entry>
