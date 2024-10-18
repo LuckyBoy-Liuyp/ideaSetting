@@ -116,7 +116,6 @@
         <entry key="ekp|1780516383653258">
           <value>
             <list>
-              <option value="使用java将列表数据导出为pfd" />
               <option value="使用java语言将列表数据导出为pdf" />
               <option value="在上边的基础上生成表单" />
               <option value="生成带有表单的pdf" />
@@ -136,6 +135,7 @@
               <option value="连表查询" />
               <option value="数组转list" />
               <option value="java中数组转list" />
+              <option value="转为list&lt;string&gt;" />
             </list>
           </value>
         </entry>
