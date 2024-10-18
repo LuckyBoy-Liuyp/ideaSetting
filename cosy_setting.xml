@@ -134,6 +134,8 @@
               <option value="HQLInfo 关联查询" />
               <option value="关联查询" />
               <option value="连表查询" />
+              <option value="数组转list" />
+              <option value="java中数组转list" />
             </list>
           </value>
         </entry>
