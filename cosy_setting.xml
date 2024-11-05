@@ -88,6 +88,7 @@
               <option value="Files.copy 出现 文件名过长" />
               <option value="报错：文件名过长" />
               <option value="for continue" />
+              <option value="Path 删除文件" />
             </list>
           </value>
         </entry>
