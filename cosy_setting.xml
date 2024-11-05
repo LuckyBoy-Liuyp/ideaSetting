@@ -87,6 +87,7 @@
               <option value="java字符串去除空格" />
               <option value="Files.copy 出现 文件名过长" />
               <option value="报错：文件名过长" />
+              <option value="for continue" />
             </list>
           </value>
         </entry>
