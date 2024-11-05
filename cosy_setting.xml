@@ -86,6 +86,7 @@
               <option value="使用waitForFunction来等待某个元素包含特定文本" />
               <option value="java字符串去除空格" />
               <option value="Files.copy 出现 文件名过长" />
+              <option value="报错：文件名过长" />
             </list>
           </value>
         </entry>
