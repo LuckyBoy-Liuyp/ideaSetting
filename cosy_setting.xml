@@ -85,6 +85,7 @@
               <option value="等待文本是 结束节点的元素" />
               <option value="使用waitForFunction来等待某个元素包含特定文本" />
               <option value="java字符串去除空格" />
+              <option value="Files.copy 出现 文件名过长" />
             </list>
           </value>
         </entry>
