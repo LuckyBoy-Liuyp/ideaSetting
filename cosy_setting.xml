@@ -122,8 +122,6 @@
           <value>
             <list>
               <option value="java 对象转xml" />
-              <option value="哪种耦合性第，便于扩展" />
-              <option value="java 对象转xml" />
               <option value="/explain code" />
               <option value="其他参数有什么" />
               <option value="/explain code" />
@@ -141,6 +139,8 @@
               <option value="java 在request中加入参数" />
               <option value="接收到的HttpServletRequest 如何添加参数" />
               <option value="删除其中的一个参数如何做到" />
+              <option value="list取交集" />
+              <option value="java list取交集" />
             </list>
           </value>
         </entry>
