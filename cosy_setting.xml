@@ -121,9 +121,6 @@
         <entry key="ekp|1780516383653258">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="其他参数有什么" />
-              <option value="/explain code" />
               <option value="Hibernate生成的sql有错误请找出，并给出解决方法select count(*) as col_0_0_ from bmp_supmdm_main bmpsupmdmm0_ cross join bmp_supmdm_type_first fdvendorty1_ where bmpsupmdmm0_.fd_id=fdvendorty1_.fd_source_id and (lower(.) like ?)" />
               <option value="这是Hibernate自动生成的 需要修改哪些配置？" />
               <option value="String模糊匹配" />
@@ -141,6 +138,9 @@
               <option value="list取交集" />
               <option value="java list取交集" />
               <option value="expecting &quot;set&quot;, found 'LEFT' near line 1, column 26" />
+              <option value="报错 org.hibernate.hql.internal.ast.QuerySyntaxException: expecting &quot;set&quot;, found 'LEFT' near line 1, column 26" />
+              <option value="报错org.hibernate.hql.internal.ast.QuerySyntaxException: expecting &quot;set&quot;, found 'LEFT' near line 1, column 26" />
+              <option value="sql EXISTS 解释" />
             </list>
           </value>
         </entry>
