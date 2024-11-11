@@ -125,7 +125,6 @@
         <entry key="ekp|1780516383653258">
           <value>
             <list>
-              <option value="关联查询" />
               <option value="连表查询" />
               <option value="数组转list" />
               <option value="java中数组转list" />
@@ -145,6 +144,7 @@
               <option value="提取为mysql存储过程" />
               <option value="hibernate 如何调用存储过程" />
               <option value="UPDATE bmp_supmdm_main a LEFT JOIN bmp_purmd_review c ON a.fd_id = c.fd_supplier_id AND c.doc_status = '30' AND c.doc_create_time &gt;= DATE_SUB( CURDATE(), INTERVAL 2 YEAR ) &#10;&#9;SET a.fd_sup_grade = '2',&#10;&#9;a.ud_grade_records = CONCAT( IFNULL(a.ud_grade_records,''), '\n', DATE_FORMAT( CURDATE(), '%Y-%m-%d' ), ':供应商两年内未采购从优秀降级为合格' ) ;expecting &quot;set&quot;, found 'LEFT' near line 1, column 26" />
+              <option value="hibernate 执行存储过程" />
             </list>
           </value>
         </entry>
