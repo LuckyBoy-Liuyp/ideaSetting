@@ -125,8 +125,6 @@
         <entry key="ekp|1780516383653258">
           <value>
             <list>
-              <option value="java String模糊匹配" />
-              <option value="String字符串替换" />
               <option value="HQLInfo 关联查询" />
               <option value="关联查询" />
               <option value="连表查询" />
@@ -145,6 +143,8 @@
               <option value="报错org.hibernate.hql.internal.ast.QuerySyntaxException: expecting &quot;set&quot;, found 'LEFT' near line 1, column 26" />
               <option value="转换为mysql存储过程" />
               <option value="hibernate 调用存储过程" />
+              <option value="提取为mysql存储过程" />
+              <option value="hibernate 如何调用存储过程" />
             </list>
           </value>
         </entry>
