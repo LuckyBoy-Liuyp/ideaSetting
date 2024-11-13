@@ -99,8 +99,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="入参是ArchBaseBean子类对象 入参定义应该怎么写" />
-              <option value="/explain code" />
               <option value="&lt;? extends ArchBaseBean&gt; obj" />
               <option value="通过反射获取对象属性值" />
               <option value="通过反射获取对象方法并获取返回值" />
@@ -119,6 +117,8 @@
               <option value="URL 转File" />
               <option value="Exception in thread &quot;main&quot; java.lang.NullPointerException&#10;&#9;at com.dcxx.data.ekp.util.WordTableGenerateUtil.main(WordTableGenerateUtil.java:58)" />
               <option value="Caused by: java.lang.NoSuchMethodError: org.apache.poi.util.IOUtils.toByteArray(Ljava/io/InputStream;II)[B" />
+              <option value="使用poi-tl需要引入什么依赖" />
+              <option value="Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.output.UnsynchronizedByteArrayOutputStream" />
             </list>
           </value>
         </entry>
