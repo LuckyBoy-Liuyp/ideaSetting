@@ -99,7 +99,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="abstract 与class的区别" />
               <option value="入参是ArchBaseBean子类对象 入参定义应该怎么写" />
               <option value="/explain code" />
               <option value="&lt;? extends ArchBaseBean&gt; obj" />
@@ -119,6 +118,7 @@
               <option value="ResourceUtil.getResource() 获取文件对象" />
               <option value="URL 转File" />
               <option value="Exception in thread &quot;main&quot; java.lang.NullPointerException&#10;&#9;at com.dcxx.data.ekp.util.WordTableGenerateUtil.main(WordTableGenerateUtil.java:58)" />
+              <option value="Caused by: java.lang.NoSuchMethodError: org.apache.poi.util.IOUtils.toByteArray(Ljava/io/InputStream;II)[B" />
             </list>
           </value>
         </entry>
