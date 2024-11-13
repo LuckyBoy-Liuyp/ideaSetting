@@ -99,7 +99,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="java 如何删除文件" />
               <option value="生成一个线程池" />
               <option value="指定线程名称" />
               <option value="@Entity 字段不参与实例化" />
@@ -119,6 +118,7 @@
               <option value="使用poi-tl生成word表格模版" />
               <option value="Exception in thread &quot;main&quot; java.lang.NoClassDefFoundError: org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream&#10;&#9;at com.deepoove.poi.XWPFTemplate.compile(XWPFTemplate.java:164)&#10;&#9;at com.deepoove.poi.XWPFTemplate.compile(XWPFTemplate.java:132)&#10;&#9;at com.deepoove.poi.XWPFTemplate.compile(XWPFTemplate.java:89)&#10;&#9;at com.deepoove.poi.XWPFTemplate.compile(XWPFTemplate.java:79)&#10;&#9;at com.dcxx.data.ekp.util.WordTableGenerateUtil.main(WordTableGenerateUtil.java:58)&#10;Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.output.UnsynchronizedByteArrayOutputStream&#10;&#9;at java.net.URLClassLoader.findClass(URLClassLoader.java:382)&#10;&#9;at java.lang.ClassLoader.loadClass(ClassLoader.java:424)&#10;&#9;at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)&#10;&#9;at java.lang.ClassLoader.loadClass(ClassLoader.java:357)&#10;&#9;... 5 more" />
               <option value="java.lang.IllegalArgumentException: 不支持：http://javax.xml.XMLConstants/property/accessExternalStylesheet&#10;&#9;at org.apache.xalan.processor.TransformerFactoryImpl.setAttribute(TransformerFactoryImpl.java:574)&#10;&#9;at org.apache.poi.util.XMLHelper.trySet(XMLHelper.java:283)&#10;&#9;at org.apache.poi.util.XMLHelper.getTransformerFactory(XMLHelper.java:224)&#10;&#9;at org.apache.poi.util.XMLHelper.newTransformer(XMLHelper.java:230)&#10;&#9;at org.apache.poi.openxml4j.opc.StreamHelper.saveXmlInStream(StreamHelper.java:56)&#10;&#9;at org.apache.poi.openxml4j.opc.internal.ZipContentTypeManager.saveImpl(ZipContentTypeManager.java:68)&#10;&#9;at org.apache.poi.openxml4j.opc.internal.ContentTypeManager.save(ContentTypeManager.java:450)&#10;&#9;at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:563)&#10;&#9;at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1490)&#10;&#9;at org.apache.poi.ooxml.POIXMLDocument.write(POIXMLDocument.java:227)&#10;&#9;at com.deepoove.poi.XWPFTemplate.write(XWPFTemplate.java:235)&#10;&#9;at com.deepoove.poi.XWPFTemplate.writeAndClose(XWPFTemplate.java:246)&#10;&#9;at com.dcxx.data.ekp.util.WordTableGenerateUtil.main(WordTableGenerateUtil.java:63)" />
+              <option value="代码中调用springboot项目中的文件" />
             </list>
           </value>
         </entry>
