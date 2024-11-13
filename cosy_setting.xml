@@ -99,7 +99,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="@Entity 字段不参与实例化" />
               <option value="abstract 与class的区别" />
               <option value="入参是ArchBaseBean子类对象 入参定义应该怎么写" />
               <option value="/explain code" />
@@ -119,6 +118,7 @@
               <option value="代码中调用springboot项目中的文件" />
               <option value="ResourceUtil.getResource() 获取文件对象" />
               <option value="URL 转File" />
+              <option value="Exception in thread &quot;main&quot; java.lang.NullPointerException&#10;&#9;at com.dcxx.data.ekp.util.WordTableGenerateUtil.main(WordTableGenerateUtil.java:58)" />
             </list>
           </value>
         </entry>
