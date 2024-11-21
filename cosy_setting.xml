@@ -99,8 +99,6 @@
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
-              <option value="&lt;? extends ArchBaseBean&gt; obj" />
-              <option value="通过反射获取对象属性值" />
               <option value="通过反射获取对象方法并获取返回值" />
               <option value="创建一个Class&lt;?&gt;[] 空数组" />
               <option value="getDeclaredField 获取不到父级的属性" />
@@ -119,6 +117,8 @@
               <option value="Caused by: java.lang.NoSuchMethodError: org.apache.poi.util.IOUtils.toByteArray(Ljava/io/InputStream;II)[B" />
               <option value="使用poi-tl需要引入什么依赖" />
               <option value="Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.output.UnsynchronizedByteArrayOutputStream" />
+              <option value="getClass().getSimpleName() 后边为什么会拼上地址信息" />
+              <option value="getClass().getSimpleName() 后边为什么会拼上地址信息  $$EnhancerBySpringCGLIB$$90c680bb" />
             </list>
           </value>
         </entry>
