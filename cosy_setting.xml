@@ -34,6 +34,55 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentComplexQueries">
+      <map>
+        <entry key="digit-outward|1780516383653258">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="这段代码如何优化" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="优化这段代码" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="ZipOutputStream zos = new ZipOutputStream(new FileOutputStream(zipFilePath));&#10;    //文件名去重&#10;    List&lt;FileDescription&gt; fileList = new ArrayList&lt;&gt;(fileDescriptionList.stream().collect(&#10;            Collectors.toMap(FileDescription::getFileName, Function.identity(), (k1, k2) -&gt; k2))&#10;        .values());&#10;    for (FileDescription fileDescription : fileList) {&#10;      FileInputStream fis = new FileInputStream(fileDescription.getFilePath());&#10;      // 获取源文件的路径和文件名&#10;      Path sourcePath = Paths.get(fileDescription.getFilePath());&#10;      String fileName = sourcePath.getFileName().toString();&#10;&#10;      // 创建ZipEntry并添加到ZipOutputStream&#10;      ZipEntry zipEntry = new ZipEntry(fileName);&#10;      zos.putNextEntry(zipEntry);&#10;&#10;      // 读取源文件并写入到ZipOutputStream&#10;      byte[] buffer = new byte[1024];&#10;      int length;&#10;      while ((length = fis.read(buffer)) &gt; 0) {&#10;        zos.write(buffer, 0, length);&#10;      }&#10;    }&#10;    // 关闭当前的ZipEntry&#10;    zos.closeEntry();&#10;这段代码如何优化" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="recentQueries">
       <map>
         <entry key="answerer_server|1780516383653258">
