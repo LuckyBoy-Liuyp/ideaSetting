@@ -36,6 +36,25 @@
     </option>
     <option name="recentComplexQueries">
       <map>
+        <entry key="digit-outward-release|1780516383653258">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="将资源文件的创建放到try中还需要额外关闭资源吗" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="digit-outward|1780516383653258">
           <value>
             <list>
