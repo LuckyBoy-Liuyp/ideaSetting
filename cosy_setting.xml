@@ -162,6 +162,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value=" String archPdfFileName = String.format(&#10;        ArchiveConst.MODEL_CLASS_3.equals(&quot;3&quot;) ? &quot;123&quot;&#10;            : &quot;456&quot;, &quot;-&quot; + &quot;prjStage&quot; + ArchiveConst.ARCHIVE_FILE_TYPE_PDF); 为什么两个值没有进行拼接" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
