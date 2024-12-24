@@ -279,6 +279,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value=" sql injection violation, dbType mysql, , druid-version 1.2.14, syntax error: not supported.pos 211, line 1, column 205, token GROUP :  select a.*, count( c.fd_id) AS fileSum from hekou.view_prj_arch_content_bmp_pmmdm a  LEFT JOIN ekp.sys_att_main c  ON( a.prj_id = c.fd_model_id )  where a.prcs_status = '30' GROUP BY a.prj_id LIMIT ? , ?  GROUP BY a.prcs_id LIMIT ? , ? &#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
