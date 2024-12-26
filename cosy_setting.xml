@@ -62,45 +62,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="这段代码如何优化" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="优化这段代码" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="ZipOutputStream zos = new ZipOutputStream(new FileOutputStream(zipFilePath));&#10;    //文件名去重&#10;    List&lt;FileDescription&gt; fileList = new ArrayList&lt;&gt;(fileDescriptionList.stream().collect(&#10;            Collectors.toMap(FileDescription::getFileName, Function.identity(), (k1, k2) -&gt; k2))&#10;        .values());&#10;    for (FileDescription fileDescription : fileList) {&#10;      FileInputStream fis = new FileInputStream(fileDescription.getFilePath());&#10;      // 获取源文件的路径和文件名&#10;      Path sourcePath = Paths.get(fileDescription.getFilePath());&#10;      String fileName = sourcePath.getFileName().toString();&#10;&#10;      // 创建ZipEntry并添加到ZipOutputStream&#10;      ZipEntry zipEntry = new ZipEntry(fileName);&#10;      zos.putNextEntry(zipEntry);&#10;&#10;      // 读取源文件并写入到ZipOutputStream&#10;      byte[] buffer = new byte[1024];&#10;      int length;&#10;      while ((length = fis.read(buffer)) &gt; 0) {&#10;        zos.write(buffer, 0, length);&#10;      }&#10;    }&#10;    // 关闭当前的ZipEntry&#10;    zos.closeEntry();&#10;这段代码如何优化" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="文件名增加随机数" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -297,6 +258,58 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="SELECT a.* ,count(d.fd_id) AS fileSum FROM hekou.view_prj_arch_content_bmp_pmmdm a LEFT JOIN hekou.prj_arch_records b ON (a.prcs_id = b.prcs_id AND b.prcs_type = '1' AND b.model_class = '1') LEFT JOIN hekou.prj_arch_records c ON (a.prj_id = c.prj_id AND c.prcs_type = '0' AND c.sync_status = '1' AND c.arch_status = '3' AND c.model_class = '1') LEFT JOIN ekp.sys_att_main d ON (a.prcs_id = d.fd_model_id) WHERE b.prcs_id IS NULL AND c.prj_id IS NOT NULL AND a.prcs_status = '30' GROUP BY a.prcs_id 优化slq" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java Files.copy 文件名过长 如何处理&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="上边代码运行时提示 “文件名过长” 如何解决" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="linux操作系统如何处理" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="有没有办法规避这种问题" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
