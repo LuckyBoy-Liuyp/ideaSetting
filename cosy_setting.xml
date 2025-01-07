@@ -386,6 +386,25 @@
             </list>
           </value>
         </entry>
+        <entry key="ekp|1780516383653258">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="org.apache.jasper.JasperException: /bmp/expayment/purmd/bmp_purmd_main/bmpPurmdMain_view.jsp (行.: [722], 列: [27]) 属性值[ UserUtil.checkRole(&quot;SYSROLE_ADMIN&quot;) ]引用[&quot;]，在值内使用时必须被转义。&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="recentQueries">
