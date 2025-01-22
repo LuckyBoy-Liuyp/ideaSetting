@@ -143,6 +143,45 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java 解析xml文件为对象" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java使用XStream解析xml文件为对象" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="将以下xml格式转换为java对象：&lt;SIP&gt;&#10;&#9;&lt;PackageDescription&gt;&#10;&#9;&#9;&lt;PackageFormat&gt;EIPPACK&lt;/PackageFormat&gt;&#10;&#9;&#9;&lt;PackageName&gt;P-SZSYLC-20250107203846853-330513925&lt;/PackageName&gt;&#10;&#9;&#9;&lt;SystemCode&gt;SZSYLC&lt;/SystemCode&gt;&#10;&#9;&#9;&lt;BusinessCode&gt;SZSYLC&lt;/BusinessCode&gt;&#10;&#9;&#9;&lt;PackageLevel&gt;1&lt;/PackageLevel&gt;&#10;&#9;&lt;/PackageDescription&gt;&#10;&#9;&lt;Package&gt;&#10;&#9;&#9;&lt;ContentDescription&gt;&#10;&#9;&#9;&#9;&lt;UUID&gt;182394d3304c2f44b5b480f415f9b069&lt;/UUID&gt;&#10;&#9;&#9;&#9;&lt;Title&gt;台州东部新区启动区块项目临时航道疏浚工程（监测及研究）项目立项&lt;/Title&gt;&#10;&#9;&#9;&#9;&lt;Date&gt;2022-07-26&lt;/Date&gt;&#10;&#9;&#9;&#9;&lt;Year&gt;2022&lt;/Year&gt;&#10;&#9;&#9;&#9;&lt;Others&gt;{&amp;quot;busType&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;ctrAmount&amp;quot;:6150000.0,&amp;quot;ctrName&amp;quot;:&amp;quot;台州东部新区启动区块项目临时航道疏浚工程（监测及研究）&amp;quot;,&amp;quot;ctrNo&amp;quot;:&amp;quot;A1263&amp;quot;,&amp;quot;ctrRelationship&amp;quot;:1,&amp;quot;ctrSignDate&amp;quot;:1325347200000,&amp;quot;customerName&amp;quot;:&amp;quot;台州循环经济发展有限公司&amp;quot;,&amp;quot;docCreateTime&amp;quot;:1658764800000,&amp;quot;docCreatorName&amp;quot;:&amp;quot;段文义&amp;quot;,&amp;quot;fileSum&amp;quot;:0,&amp;quot;modelClass&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;prcsId&amp;quot;:&amp;quot;182394d3304c2f44b5b480f415f9b069&amp;quot;,&amp;quot;prjApproveName&amp;quot;:&amp;quot;段文义&amp;quot;,&amp;quot;prjAreaaddr&amp;quot;:&amp;quot;浙江省台州市甲南大道东段9号&amp;quot;,&amp;quot;prjBasis&amp;quot;:1,&amp;quot;prjCityaddr&amp;quot;:&amp;quot;3310&amp;quot;,&amp;quot;prjContent&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;prjCreateTime&amp;quot;:1463414400000,&amp;quot;prjDeataddr&amp;quot;:&amp;quot;椒江区&amp;quot;,&amp;quot;prjDutyDeptName&amp;quot;:&amp;quot;河海测验中心&amp;quot;,&amp;quot;prjDutyOrgName&amp;quot;:&amp;quot;省水利河口研究院（省海洋规划设计研究院）&amp;quot;,&amp;quot;prjId&amp;quot;:&amp;quot;182394d3304c2f44b5b480f415f9b069&amp;quot;,&amp;quot;prjInvoiceAmount&amp;quot;:3075000.0,&amp;quot;prjManagerCell&amp;quot;:&amp;quot;13958170855&amp;quot;,&amp;quot;prjManagerName&amp;quot;:&amp;quot;段文义&amp;quot;,&amp;quot;prjMethod&amp;quot;:&amp;quot;技术设计书&amp;quot;,&amp;quot;prjMoney&amp;quot;:6150000.0,&amp;quot;prjName&amp;quot;:&amp;quot;台州东部新区启动区块项目临时航道工程(监测及研究)地形测量-施工前测次&amp;quot;,&amp;quot;prjNo&amp;quot;:&amp;quot;2012043&amp;quot;,&amp;quot;prjNotInvoiceAmount&amp;quot;:1230000.0,&amp;quot;prjNotReturnAmount&amp;quot;:4305000.0,&amp;quot;prjPlanEndTime&amp;quot;:1438272000000,&amp;quot;prjPlanStartTime&amp;quot;:1338480000000,&amp;quot;prjProvaddr&amp;quot;:&amp;quot;33&amp;quot;,&amp;quot;prjReq&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;prjReturnAmount&amp;quot;:1845000.0,&amp;quot;prjReviewName&amp;quot;:&amp;quot;张炳蔚&amp;quot;,&amp;quot;prjType&amp;quot;:&amp;quot;咨询项目&amp;quot;,&amp;quot;prjZcheckName&amp;quot;:&amp;quot;祁敏敏&amp;quot;}&lt;/Others&gt;&#10;&#9;&#9;&#9;&lt;Stage&gt;项目立项&lt;/Stage&gt;&#10;&#9;&#9;&#9;&lt;FondsIdentifier&gt;ZIHE01&lt;/FondsIdentifier&gt;&#10;&#9;&#9;&#9;&lt;ClassCode&gt;ZY&lt;/ClassCode&gt;&#10;&#9;&#9;&#9;&lt;CreateDate&gt;2025-01-07&lt;/CreateDate&gt;&#10;&#9;&#9;&#9;&lt;ArchiveDate&gt;2025-01-07&lt;/ArchiveDate&gt;&#10;&#9;&#9;&#9;&lt;OrganCode&gt;ZIHE001&lt;/OrganCode&gt;&#10;&#9;&#9;&#9;&lt;ProjectName&gt;台州东部新区启动区块项目临时航道疏浚工程（监测及研究）&lt;/ProjectName&gt;&#10;&#9;&#9;&#9;&lt;Creator&gt;13958170855&lt;/Creator&gt;&#10;&#9;&#9;&#9;&lt;ResponsibleDepartment&gt;河海测验中心&lt;/ResponsibleDepartment&gt;&#10;&#9;&#9;&#9;&lt;ProID&gt;182394d3304c2f44b5b480f415f9b069&lt;/ProID&gt;&#10;&#9;&#9;&#9;&lt;Archiver&gt;段文义&lt;/Archiver&gt;&#10;&#9;&#9;&#9;&lt;ProjectNumber&gt;A1263&lt;/ProjectNumber&gt;&#10;&#9;&#9;&#9;&lt;SecondLevelClass&gt;咨询项目&lt;/SecondLevelClass&gt;&#10;&#9;&#9;&#9;&lt;RetentionPeriod&gt;30年&lt;/RetentionPeriod&gt;&#10;&#9;&#9;&#9;&lt;ThirdLevelClass&gt;1&lt;/ThirdLevelClass&gt;&#10;&#9;&#9;&#9;&lt;Author&gt;省水利河口研究院（省海洋规划设计研究院）&lt;/Author&gt;&#10;&#9;&#9;&lt;/ContentDescription&gt;&#10;&#9;&#9;&lt;Content&gt;&#10;&#9;&#9;&#9;&lt;FileDescription&gt;&#10;&#9;&#9;&#9;&#9;&lt;UUID&gt;0fa6eb5ebf296010beb37a0f7925dc59&lt;/UUID&gt;&#10;&#9;&#9;&#9;&#9;&lt;OriginalFileName&gt;台州东部新区启动区块项目临时航道疏浚工程（监测及研究）-项目立项.pdf&lt;/OriginalFileName&gt;&#10;&#9;&#9;&#9;&#9;&lt;DocumentType&gt;附件&lt;/DocumentType&gt;&#10;&#9;&#9;&#9;&#9;&lt;FileSize&gt;150573&lt;/FileSize&gt;&#10;&#9;&#9;&#9;&#9;&lt;FileTimeStamp&gt;1736253526846&lt;/FileTimeStamp&gt;&#10;&#9;&#9;&#9;&#9;&lt;FileChecksum&gt;a36cfce67c553ab552f24dbc5a273790&lt;/FileChecksum&gt;&#10;&#9;&#9;&#9;&#9;&lt;FileFormat&gt;pdf&lt;/FileFormat&gt;&#10;&#9;&#9;&#9;&#9;&lt;FileName&gt;台州东部新区启动区块项目临时航道疏浚工程（监测及研究）-项目立项.pdf&lt;/FileName&gt;&#10;&#9;&#9;&#9;&#9;&lt;creator&gt;13958170855&lt;/creator&gt;&#10;&#9;&#9;&#9;&#9;&lt;CreatedTime&gt;2025-01-07&lt;/CreatedTime&gt;&#10;&#9;&#9;&#9;&#9;&lt;filePath&gt;/home/landray-ManageSystemShare/archive_file/bmp/pdf/202501/台州东部新区启动区块项目临时航道疏浚工程（监测及研究）-项目立项.pdf&lt;/filePath&gt;&#10;&#9;&#9;&#9;&lt;/FileDescription&gt;&#10;&#9;&#9;&lt;/Content&gt;&#10;&#9;&lt;/Package&gt;&#10;&lt;/SIP&gt;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
