@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeGPT">
+    <option name="serverPort" value="60491" />
+  </component>
+</application>
