@@ -43,32 +43,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="将资源文件的创建放到try中还需要额外关闭资源吗" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="写一个线程池" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="有需要优化的地方吗" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -405,6 +379,58 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="Paths.get(fileUrl) 如果文件地址不存在怎么处理" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="解析下原因" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Exception in thread &quot;main&quot; java.nio.file.NoSuchFileException: D:\javaTool\工作\数据恢复-T0\123\1826139da9019a4743f4f944f0f90d2e\P-KJDA__-20250116171915371-283028544.zip&#10;&#9;at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)&#10;&#9;at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)&#10;&#9;at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)&#10;&#9;at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234)&#10;&#9;at java.nio.file.Files.newByteChannel(Files.java:361)&#10;&#9;at java.nio.file.Files.createFile(Files.java:632)&#10;&#9;at com.dcxx.data.ekp.service.archive.restore.Impl.RestoreFileSeviceImpl.main(RestoreFileSeviceImpl.java:100)  解析原因" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java.nio.file.AccessDeniedException &#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Path 转为文件流" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
