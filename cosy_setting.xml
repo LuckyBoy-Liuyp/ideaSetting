@@ -43,19 +43,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="优化sql ：SELECT&#10;&#9;a.*,&#10;&#9;count( d.fd_id ) AS fileSum &#10;FROM&#10;&#9;hekou.view_prj_arch_content_bmp_pmmdm a&#10;&#9;LEFT JOIN hekou.prj_arch_records b ON ( a.prcs_id = b.prcs_id AND b.prcs_type = '1' AND b.model_class = '1' ) &#10;&#9;LEFT JOIN hekou.prj_arch_records c ON (&#10;&#9;&#9;a.prj_id = c.prj_id &#10;&#9;&#9;AND c.prcs_type = '0' &#10;&#9;&#9;AND c.sync_status = '1' &#10;&#9;&#9;AND c.arch_status = '3' &#10;&#9;&#9;AND c.model_class = '1'&#10;&#9;)&#10;&#9;LEFT JOIN ekp.sys_att_main d ON ( a.prcs_id = d.fd_model_id )&#10;WHERE&#10;&#9;b.prcs_id IS NULL &#10;&#9;AND c.prj_id IS NOT NULL &#10;&#9;AND a.prcs_status = '30' &#10;GROUP BY&#10;&#9;a.prcs_id " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="java 文件夹不存在创建文件夹" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -431,6 +418,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="java解压zip并获取zip中的文件名&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java.nio.file.FileAlreadyExistsException&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
