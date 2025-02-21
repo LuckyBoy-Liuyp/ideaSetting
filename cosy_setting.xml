@@ -481,32 +481,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="@Column 持久化忽略 &#10; " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value=" String archPdfFileName = String.format(&#10;        ArchiveConst.MODEL_CLASS_3.equals(&quot;3&quot;) ? &quot;123&quot;&#10;            : &quot;456&quot;, &quot;-&quot; + &quot;prjStage&quot; + ArchiveConst.ARCHIVE_FILE_TYPE_PDF); 为什么两个值没有进行拼接" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="出现循环依赖" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -729,6 +703,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="mysql 取差集" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java文件和路径都不存在怎么创建" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="用java代码的方式如何实现" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
