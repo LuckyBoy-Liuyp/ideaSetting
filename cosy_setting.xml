@@ -1,5 +1,11 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModelSelected">
+      <map>
+        <entry key="chat" value="default" />
+        <entry key="developer" value="default" />
+      </map>
+    </option>
     <option name="dedicatedDomainUrl" value="" />
     <option name="localStoragePath" value="C:\Users\yipen\.lingma" />
     <option name="manualOpenLocalModel" value="true" />
