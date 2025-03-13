@@ -487,32 +487,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="启用  @Async" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="java.lang.IllegalArgumentException: Invalid key: 0&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="Collectors.tomap&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -735,6 +709,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="Exception in thread &quot;main&quot; java.lang.NoSuchFieldError: Factory&#10;&#9;at org.apache.poi.xwpf.usermodel.XWPFDocument.onDocumentRead(XWPFDocument.java:197)&#10;&#9;at org.apache.poi.ooxml.POIXMLDocument.load(POIXMLDocument.java:169)&#10;&#9;at org.apache.poi.xwpf.usermodel.XWPFDocument.&lt;init&gt;(XWPFDocument.java:160)&#10;&#9;at com.dcxx.data.ekp.util.WordTableGenerateUtil.main(WordTableGenerateUtil.java:118)&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="itext生成水印并返回文件流" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="拿到文件流之后保存到服务器" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
