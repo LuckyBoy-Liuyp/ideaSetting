@@ -772,19 +772,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="org.apache.jasper.JasperException: /bmp/expayment/purmd/bmp_purmd_main/bmpPurmdMain_view.jsp (行.: [722], 列: [27]) 属性值[ UserUtil.checkRole(&quot;SYSROLE_ADMIN&quot;) ]引用[&quot;]，在值内使用时必须被转义。&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="e.printStackTrace(); 的作用" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1077,6 +1064,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="使用java8的特性将list&lt;obj&gt; 中的obj.list&lt;o&gt; 生成一个新的list&lt;o&gt;对象" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Caused by: java.lang.NoSuchFieldError: AREA&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Caused by: java.lang.NoSuchFieldError: AREA&#10;&#9;at com.deepoove.poi.config.Configure.&lt;init&gt;(Configure.java:147)&#10;&#9;at com.deepoove.poi.config.ConfigureBuilder.&lt;init&gt;(ConfigureBuilder.java:47)&#10;&#9;at com.deepoove.poi.config.Configure.builder(Configure.java:181)&#10;&#9;at com.deepoove.poi.config.Configure.createDefault(Configure.java:172)&#10;&#9;at com.deepoove.poi.XWPFTemplate.compile(XWPFTemplate.java:89)&#10;&#9;at com.deepoove.poi.XWPFTemplate.compile(XWPFTemplate.java:79)&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
