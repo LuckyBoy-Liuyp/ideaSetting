@@ -772,32 +772,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="e.printStackTrace(); 的作用" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="关闭INFO 日志打印" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="在java中如何给文档（pdf）" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1090,6 +1064,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="Caused by: java.lang.NoSuchFieldError: AREA&#10;&#9;at com.deepoove.poi.config.Configure.&lt;init&gt;(Configure.java:147)&#10;&#9;at com.deepoove.poi.config.ConfigureBuilder.&lt;init&gt;(ConfigureBuilder.java:47)&#10;&#9;at com.deepoove.poi.config.Configure.builder(Configure.java:181)&#10;&#9;at com.deepoove.poi.config.Configure.createDefault(Configure.java:172)&#10;&#9;at com.deepoove.poi.XWPFTemplate.compile(XWPFTemplate.java:89)&#10;&#9;at com.deepoove.poi.XWPFTemplate.compile(XWPFTemplate.java:79)&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="poi-tl1.7.3模版内容替换" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java中使用poi-tl1.7.3模版内容替换 " />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
