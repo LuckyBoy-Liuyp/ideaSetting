@@ -785,32 +785,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="java中将byte[] 转换为文件流" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="java中将byte[]生成文件" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value=" Color value outside range 0-255.&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1103,6 +1077,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="Received fatal alert: handshake_failure&#10;javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure&#10;&#9;at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)&#10;&#9;at sun.security.ssl.Alerts.getSSLException(Alerts.java:154)&#10;&#9;at sun.security.ssl.SSLSocketImpl.recvAlert(SSLSocketImpl.java:2023)&#10;&#9;at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1125)&#10;&#9;at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)&#10;&#9;at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)&#10;&#9;at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java url转码" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java 代码执行输出 ：URLEncoder.encode(&quot;浙江省海洋“蓝碳”增长路径、成本与效益分析&quot;,&quot;UTF-8&quot;)" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
