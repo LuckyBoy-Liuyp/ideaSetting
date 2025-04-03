@@ -785,19 +785,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value=" Color value outside range 0-255.&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="Color value outside range 0-255.&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1103,6 +1090,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="java 代码执行输出 ：URLEncoder.encode(&quot;浙江省海洋“蓝碳”增长路径、成本与效益分析&quot;,&quot;UTF-8&quot;)" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java: 找不到符号&#10;  符号:   类 ReadListener&#10;  位置: 程序包 javax.servlet&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
