@@ -1114,6 +1114,38 @@
             </list>
           </value>
         </entry>
+        <entry key="trunk|1780516383653258">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java: Error: java.lang.IndexOutOfBoundsException&#10;java.lang.RuntimeException: java.lang.IndexOutOfBoundsException&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java: Error: java.lang.IndexOutOfBoundsException&#10;java.lang.RuntimeException: java.lang.IndexOutOfBoundsException&#10;&#9;at com.intellij.util.io.PersistentEnumeratorBase.catchCorruption(PersistentEnumeratorBase.java:628)&#10;&#9;at com.intellij.util.io.PersistentEnumeratorBase.doEnumerate(PersistentEnumeratorBase.java:266)&#10;&#9;at com.intellij.util.io.PersistentEnumeratorBase.enumerate(PersistentEnumeratorBase.java:279)&#10;&#9;at com.intellij.util.io.PersistentMapImpl.enumerate(PersistentMapImpl.java:425)&#10;&#9;at com.intellij.util.io.PersistentMapImpl.doPut(PersistentMapImpl.java:398)&#10;&#9;at com.intellij.util.io.PersistentMapImpl.put(PersistentMapImpl.java:360)&#10;&#9;at com.intellij.util.io.PersistentHashMap.put(PersistentHashMap.java:102)&#10;&#9;at org.jetbrains.jps.incremental.storage.AbstractStateStorage.update(AbstractStateStorage.java:69)&#10;&#9;at org.jetbrains.jps.incremental.storage.OneToManyPathsMapping.update(OneToManyPathsMapping.java:34)&#10;&#9;at org.jetbrains.jps.incremental.storage.SourceToOutputMappingImpl.setOutput(SourceToOutputMappingImpl.java:45)&#10;&#9;at org.jetbrains.jps.incremental.storage.BuildDataManager$SourceToOutputMappingWrapper.setOutput(BuildDataManager.java:353)&#10;&#9;at org.jetbrains.jps.builders.impl.BuildOutputConsumerImpl.registerOutput(BuildOutputConsumerImpl.java:71)&#10;&#9;at org.jetbrains.jps.builders.impl.BuildOutputConsumerImpl.registerOutputFile(BuildOutputConsumerImpl.java:94)&#10;&#9;at org.jetbrains.jps.incremental.ChunkBuildOutputConsumerImpl.registerOutputFile(ChunkBuildOutputConsumerImpl.java:73)&#10;&#9;at org.jetbrains.jps.incremental.ChunkBuildOutputConsumerImpl.registerCompiledClass(ChunkBuildOutputConsumerImpl.java:62)&#10;&#9;at org.jetbrains.jps.incremental.java.OutputFilesSink.save(OutputFilesSink.java:77)&#10;&#9;at org.jetbrains.jps.incremental.java.JavaBuilder$ClassProcessingConsumer.lambda$save$1(JavaBuilder.java:1424)&#10;&#9;at org.jetbrains.jps.incremental.java.JavaBuilder.lambda$submitAsyncTask$4(JavaBuilder.java:756)&#10;&#9;at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:246)&#10;&#9;at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:32)&#10;&#9;at com.intellij.util.concurrency.BoundedTaskExecutor$1.execute(BoundedTaskExecutor.java:225)&#10;&#9;at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:213)&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="recentQueries">
