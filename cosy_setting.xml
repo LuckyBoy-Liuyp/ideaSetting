@@ -1146,6 +1146,38 @@
             </list>
           </value>
         </entry>
+        <entry key="trunk|1780516383653258|AiDeveloper">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="html 页面加载结束后触发函数" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="html 获取父页面元素的值" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="recentQueries">
