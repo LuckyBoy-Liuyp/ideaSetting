@@ -1169,6 +1169,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Caused by:java.lang.NoSuchMethodError: com.landray.kmss.bmp.project.plan.pmptask.util.PdfWaterMarkUtil.addSingleTextWaterMark(Ljava/io/InputStream;Ljava/lang/String;)[B&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
