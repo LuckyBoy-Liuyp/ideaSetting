@@ -1260,6 +1260,88 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="下边是ollama的部署文件请添加注释：&#10;apiVersion: apps/v1&#10;kind: Deployment&#10;metadata:&#10;  labels:&#10;    app: ollama&#10;  name: ollama&#10;  namespace: moonfdd&#10;spec:&#10;  strategy:&#10;    type: Recreate&#10;  replicas: 1&#10;  selector:&#10;    matchLabels:&#10;      app: ollama&#10;  template:&#10;    metadata:&#10;      labels:&#10;        app: ollama&#10;    spec:&#10;      containers:&#10;        - env:&#10;            - name: OLLAMA_HOST&#10;              value: &quot;0.0.0.0&quot;&#10;            - name: OLLAMA_PORT&#10;              value: &quot;11434&quot;&#10;            - name: OLLAMA_NUM_PARALLEL&#10;              value: &quot;20&quot; #默认是1&#10;            - name: OLLAMA_ORIGINS&#10;              value: &quot;*&quot;&#10;            - name: OLLAMA_MODELS&#10;              value: &quot;/root/.ollama/models&quot;&#10;          image: 'ollama/ollama:0.5.12'&#10;          command: [&quot;ollama&quot;, &quot;serve&quot;]&#10;          imagePullPolicy: IfNotPresent&#10;          name: ollama&#10;          volumeMounts:&#10;            - mountPath: /root/.ollama/models/&#10;              name: data&#10;          resources:&#10;            # nvidia.com/gpu: 1&#10;            # memory: &quot;24Gi&quot;&#10;            # limits:&#10;            #   cpu: 200m&#10;            #   memory: 200Mi&#10;            # requests:&#10;            #   cpu: 100m&#10;            #   memory: 100Mi&#10;        - image: 'ollama/ollama:0.5.12'&#10;          command: [&quot;sh&quot;, &quot;-c&quot;, &quot;while true; do ollama run deepseek-r1:1.5b; sleep 5; done&quot;]&#10;          imagePullPolicy: IfNotPresent&#10;          name: ollamacmd&#10;      volumes:&#10;        - name: data&#10;          hostPath:&#10;            path: /root/k8s/moonfdd/ollama/root/.ollama/models/&#10;            type: DirectoryOrCreate&#10;---&#10;apiVersion: v1&#10;kind: Service&#10;metadata:&#10;  labels:&#10;    app: ollama&#10;  name: ollama&#10;  namespace: moonfdd&#10;spec:&#10;  ports:&#10;    - name: 11434-11434&#10;      port: 11434&#10;      protocol: TCP&#10;      targetPort: 11434&#10;      nodePort: 11434&#10;  selector:&#10;    app: ollama&#10;  type: NodePort" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="有什么优化建议吗" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine" />
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent" />
+                          <entry key="startLine" />
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\trunk\src\com\landray\kmss\bmp\crm\crmpm\ApplicationResources.properties" />
+                      <option name="name" value="D:\project\dcxx\trunk\src\com\landray\kmss\bmp\crm\crmpm\ApplicationResources.properties" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="text" value="ApplicationResources.properties" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
