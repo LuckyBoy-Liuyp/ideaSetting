@@ -1384,19 +1384,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="Exception in thread &quot;main&quot; org.jasypt.exceptions.EncryptionOperationNotPossibleException&#10;&#9;at org.jasypt.encryption.pbe.StandardPBEByteEncryptor.decrypt(StandardPBEByteEncryptor.java:1059)&#10;&#9;at org.jasypt.encryption.pbe.StandardPBEStringEncryptor.decrypt(StandardPBEStringEncryptor.java:738)&#10;&#9;at org.jasypt.encryption.pbe.PooledPBEStringEncryptor.decrypt(PooledPBEStringEncryptor.java:511)&#10;&#9;at com.dcdev.kc.api.controller.qa.QaIntagtInfoController.main(QaIntagtInfoController.java:174)&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="git创建分支" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1749,6 +1736,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="git合并分支" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="git 合并分支" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
