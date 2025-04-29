@@ -1384,19 +1384,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="fastjson 字段设置别名" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="@Validated(SaveGroup.class) 未生效 &#10; " />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1749,6 +1736,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="switch (status){&#10;            case AppConsts.ZSK_FILE_YES:&#10;                throw new NoticeException(&quot;文件已拆解&quot;);&#10;            case AppConsts.ZSK_FILE_ING:&#10;                throw new NoticeException(&quot;文件拆解中&quot;);&#10;            default:&#10;                logger.error(&quot;状态参数错误,queueId={},status={}&quot;, queueId, status);&#10;                throw new NoticeException(&quot;状态参数错误&quot;);&#10;        }转为if判断" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="git合并代码" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
