@@ -1845,6 +1845,32 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="  @Scheduled(cron = &quot;0 0/10 * * * ?&quot;) 项目启动后1分钟调用，之后每个十分钟调用一次应该怎么修改代码" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java使用TimeUnit.MINUTES 获取60秒的毫秒" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
