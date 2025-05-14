@@ -4,8 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.jsp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
