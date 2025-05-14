@@ -1137,6 +1137,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Module 'ekp' production: java.lang.InternalError: BMH.reinvoke=Lambda(a0:L/SpeciesData&lt;LL&gt;,a1:L)=&gt;{&#10;    t2:L=BoundMethodHandle$Species_LL.argL1(a0:L);&#10;    t3:L=BoundMethodHandle$Species_LL.argL0(a0:L);&#10;    t4:L=MethodHandle.invokeBasic(t3:L,t2:L,a1:L);t4:L}&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
