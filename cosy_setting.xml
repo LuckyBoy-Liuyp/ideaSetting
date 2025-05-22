@@ -1163,6 +1163,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="$.ajax({&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;url: url,&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;dataType:&quot;json&quot;,&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;type:&quot;post&quot;,&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;data:{&quot;data&quot;:LUI.stringify(data)},&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;async:false,&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;success: function(rtn){&#10;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;}}); 标头如何填写" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
