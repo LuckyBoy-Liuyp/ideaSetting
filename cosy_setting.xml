@@ -2187,6 +2187,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="    public List&lt;ObjAd&gt; listSubAdcd(String adcd) {&#10;        ObjAd objAd = new ObjAd() ;&#10;        objAd.setUpAdcd(adcd);&#10;        objAd.setIsEnab(&quot;1&quot;);&#10;        ExampleMatcher matcher = ExampleMatcher.matching()&#10;            .withMatcher(&quot;upAdcd&quot;,ExampleMatcher.GenericPropertyMatchers.exact())&#10;            .withMatcher(&quot;isEnab&quot;,ExampleMatcher.GenericPropertyMatchers.exact());&#10;        Example&lt;ObjAd&gt; example = Example.of(objAd ,matcher);&#10;        //排序&#10;        Sort sort =  Sort.by(Sort.Direction.ASC,&quot;adcd&quot;);&#10;        return this.getList(example,sort);&#10;    }改成mybastis的方式" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
