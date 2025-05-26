@@ -1804,32 +1804,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="java获取秒级时间戳" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="  @Scheduled(cron = &quot;0 0/10 * * * ?&quot;) 项目启动后1分钟调用，之后每个十分钟调用一次应该怎么修改代码" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="java使用TimeUnit.MINUTES 获取60秒的毫秒" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2122,6 +2096,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="左模糊如何实现" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="SELECT * FROM table_name&#10;WHERE column_name REGEXP 'key1$|key2$|key3$';&#10; 性能上有会什么印象" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="SELECT * FROM table_name WHERE column_name REGEXP '$key1|$key2|$key3'; 性能上有会什么印象&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
