@@ -1804,19 +1804,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="git合并分支命令" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="java定时任务请求数据信息提示：The last packet successfully received from the server was 60,145 milliseconds ago.  The last packet sent successfully to the server was 60,152 milliseconds ago." />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2209,6 +2196,99 @@
                       </option>
                       <option name="statLine" value="43" />
                       <option name="text" value="MybatisPlusHandler.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#RbtEquipInfosController.java 136-136" />
+                          <option name="id" value="D:\project\dcxx\water-kc\water-kc-msg\src\main\java\com\dcdev\kc\msg\controller\rbt\RbtEquipInfosController.java#L136-L136" />
+                          <option name="text" value="RbtEquipInfosController.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="接口返回不显示某些字段怎么操作" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="136" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-msg\src\main\java\com\dcdev\kc\msg\controller\rbt\RbtEquipInfosController.java#L136-L136" />
+                      <option name="name" value="RbtEquipInfosController.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="136" />
+                      <option name="text" value="RbtEquipInfosController.java" />
                       <option name="type" value="context" />
                     </ChatContextTag>
                   </list>
