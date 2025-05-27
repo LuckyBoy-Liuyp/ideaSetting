@@ -1804,19 +1804,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="java使用TimeUnit.MINUTES 获取60秒的毫秒" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="git合并代码" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2122,6 +2109,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="SELECT * FROM table_name WHERE column_name REGEXP '$key1|$key2|$key3'; 性能上有会什么印象&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="The bean 'mybatisPlusHandler', defined in class path resource [com/dcdev/kc/msg/config/MybatisPlusConfig.class], could not be registered. A bean with that name has already been defined in file [D:\project\dcxx\water-kc\water-kc-msg\target\classes\com\dcdev\kc\msg\config\MybatisPlusHandler.class] and overriding is disabled.&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
