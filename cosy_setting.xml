@@ -1804,32 +1804,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="java定时任务请求数据信息提示：The last packet successfully received from the server was 60,145 milliseconds ago.  The last packet sent successfully to the server was 60,152 milliseconds ago." />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="使用的是druid和mybatis实现的 需要如何修改" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="git分支合并" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2292,6 +2266,32 @@
                       <option name="type" value="context" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="git分支合并 " />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="合并某一次提交" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
