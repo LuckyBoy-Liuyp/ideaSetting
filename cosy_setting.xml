@@ -8,6 +8,7 @@
     <option name="chatModelSelected">
       <map>
         <entry key="D:/project/dcxx/SPRJ20220303_HZDCXXJZ-chat" value="default" />
+        <entry key="D:/project/dcxx/report/report-system-chat" value="default" />
         <entry key="D:/project/dcxx/water-kc-chat" value="default" />
         <entry key="chat" value="default" />
         <entry key="developer" value="default" />
@@ -1168,6 +1169,166 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="$.ajax({&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;url: url,&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;dataType:&quot;json&quot;,&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;type:&quot;post&quot;,&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;data:{&quot;data&quot;:LUI.stringify(data)},&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;async:false,&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;success: function(rtn){&#10;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;}}); 标头如何填写" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
+        <entry key="report-system|1780516383653258|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="javax.script.ScriptException: &lt;eval&gt;:4:10 Expected : but found [&#10;      item['部门'] = '123'&#10;          ^ in &lt;eval&gt; at line number 4 at column number 10&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="javax.script.ScriptException: &lt;eval&gt;:7:12 Expected : but found [&#10;        item['部门'] = '123'; &#10;            ^ in &lt;eval&gt; at line number 7 at column number 12&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="javax.script.ScriptException: &lt;eval&gt;:7:12 Expected : but found .&#10;        item.部门 = '123'; &#10;            ^ in &lt;eval&gt; at line number 7 at column number 12&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#JsTransformServiceImpl.java 115-131" />
+                          <option name="id" value="D:\project\dcxx\report\report-system\report-java\src\main\java\com\template\gaea\business\modules\datasettransform\service\impl\JsTransformServiceImpl.java#L115-L131" />
+                          <option name="text" value="JsTransformServiceImpl.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="131" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\report\report-system\report-java\src\main\java\com\template\gaea\business\modules\datasettransform\service\impl\JsTransformServiceImpl.java#L115-L131" />
+                      <option name="name" value="JsTransformServiceImpl.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="115" />
+                      <option name="text" value="JsTransformServiceImpl.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="05-30 10:22:59.371 | main |-INFO  c.t.g.b.m.d.s.i.JsTransformServiceImpl:127 - 执行js异常，脚本内容: function dataTransform(data){&#10;&#9;if (!Array.isArray(data)) {&#10;        console.error('data must be an array');&#10;        return;&#10;    }&#10;    data.forEach(item =&gt; {&#10;        item.department = '123'; &#10;        &#10;    });&#10;&#9;return data;&#10;}&#10;javax.script.ScriptException: &lt;eval&gt;:7:12 Expected : but found .&#10;        item.department = '123'; &#10;            ^ in &lt;eval&gt; at line number 7 at column number 12&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="05-30 10:30:21.815 | main |-INFO  c.t.g.b.m.d.s.i.JsTransformServiceImpl:127 - 执行js异常，脚本内容: function dataTransform(data){&#10;&#9;if (!Array.isArray(data)) {&#10;        console.error('data must be an array');&#10;        return;&#10;    }&#10;    data.forEach(item =&gt; {&#10;        item['department'] = '123'; &#10;        &#10;    });&#10;&#9;return data;&#10;}&#10;javax.script.ScriptException: &lt;eval&gt;:7:12 Expected : but found [&#10;        item['department'] = '123'; &#10;            ^ in &lt;eval&gt; at line number 7 at column number 12&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
