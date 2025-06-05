@@ -2488,6 +2488,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="json转list&lt;map&gt;[&#10;        {&#10;            &quot;standardType&quot;: &quot;DCM-01&quot;,&#10;            &quot;count&quot;: 2&#10;        },&#10;        {&#10;            &quot;standardType&quot;: &quot;DCM-02&quot;,&#10;            &quot;count&quot;: 5&#10;        },&#10;        {&#10;            &quot;standardType&quot;: &quot;DCM-03&quot;,&#10;            &quot;count&quot;: 2&#10;        },&#10;        {&#10;            &quot;standardType&quot;: &quot;DCM-04&quot;,&#10;            &quot;count&quot;: 3&#10;        },&#10;        {&#10;            &quot;standardType&quot;: &quot;DCM-07&quot;,&#10;            &quot;count&quot;: 2&#10;        },&#10;        {&#10;            &quot;standardType&quot;: &quot;DCM-08&quot;,&#10;            &quot;count&quot;: 4&#10;        },&#10;        {&#10;            &quot;standardType&quot;: &quot;DCM-09&quot;,&#10;            &quot;count&quot;: 19&#10;        },&#10;        {&#10;            &quot;count&quot;: 37,&#10;            &quot;standardType&quot;: &quot;total&quot;&#10;        },&#10;        {&#10;            &quot;callnum&quot;: 24973,&#10;            &quot;standardType&quot;: &quot;moduleCallNum&quot;&#10;        }&#10;    ]" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
