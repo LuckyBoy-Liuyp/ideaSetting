@@ -1966,19 +1966,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="org.springframework.scheduling 有验证的方法吗" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="CronExpression.isValidExpression(0 27 16 10 5 ? 2025) 为什么没有通过验证" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2448,6 +2435,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="选择某个提交合并" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="git 选择性合并代码 " />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
