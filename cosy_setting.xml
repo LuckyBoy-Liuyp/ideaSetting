@@ -1178,6 +1178,32 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java根据参数名获取参数的值" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java根据对象的参数名获取对象参数的值&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
@@ -2685,5 +2711,6 @@
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
     <option name="showInlineTriggerTips" value="false" />
+    <option name="upgradeStrategy" value="forbid" />
   </component>
 </application>
