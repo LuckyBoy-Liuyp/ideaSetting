@@ -8,6 +8,7 @@
     <option name="chatModelSelected">
       <map>
         <entry key="D:/project/dcxx/SPRJ20220303_HZDCXXJZ-chat" value="default" />
+        <entry key="D:/project/dcxx/SPRJ20220303_HZDCXXJZ-inline" value="default" />
         <entry key="D:/project/dcxx/report/report-system-chat" value="default" />
         <entry key="D:/project/dcxx/water-kc-chat" value="default" />
         <entry key="D:/project/dcxx/yjy-model-center-yjy-chat" value="default" />
@@ -1588,6 +1589,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="java 泛型如何获取一个对象中的参数值" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java 获取Class&lt;?&gt; name带$HibernateProxy$xk0BP9GK 后缀是什么原因" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
