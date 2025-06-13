@@ -1397,6 +1397,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Caused by: org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type 'com.sun.proxy.$Proxy366 implementing com.landray.kmss.sys.metadata.interfaces.IExtendDataService,com.landray.kmss.common.service.IBaseService,org.springframework.transaction.interceptor.TransactionalProxy,org.springframework.aop.framework.Advised,org.springframework.core.DecoratingProxy' to required type 'com.landray.kmss.bmp.supmdmapp.service.IBmpSupmdmAppraiseChangeTService' for property 'bmpSupmdmAppraiseChangeTService'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'com.sun.proxy.$Proxy366 implementing com.landray.kmss.sys.metadata.interfaces.IExtendDataService,com.landray.kmss.common.service.IBaseService,org.springframework.transaction.interceptor.TransactionalProxy,org.springframework.aop.framework.Advised,org.springframework.core.DecoratingProxy' to required type 'com.landray.kmss.bmp.supmdmapp.service.IBmpSupmdmAppraiseChangeTService' for property 'bmpSupmdmAppraiseChangeTService': no matching editors or conversion strategy found&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
