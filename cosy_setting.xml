@@ -2463,19 +2463,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="The bean 'mybatisPlusHandler', defined in class path resource [com/dcdev/kc/msg/config/MybatisPlusConfig.class], could not be registered. A bean with that name has already been defined in file [D:\project\dcxx\water-kc\water-kc-msg\target\classes\com\dcdev\kc\msg\config\MybatisPlusHandler.class] and overriding is disabled.&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="MetaObjectHandler.setFieldValByName与MetaObjectHandler." />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2875,6 +2862,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="分页代码如何写 并返回page对象" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="使用java RestTemplate 请求post接口最简单的方法" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
