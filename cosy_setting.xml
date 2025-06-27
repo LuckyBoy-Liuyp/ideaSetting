@@ -11,6 +11,7 @@
         <entry key="D:/project/dcxx/SPRJ20220303_HZDCXXJZ-inline" value="default" />
         <entry key="D:/project/dcxx/report/report-system-chat" value="default" />
         <entry key="D:/project/dcxx/water-kc-chat" value="default" />
+        <entry key="D:/project/dcxx/water-kc-inline" value="default" />
         <entry key="D:/project/dcxx/yjy-model-center-yjy-chat" value="default" />
         <entry key="chat" value="default" />
         <entry key="developer" value="default" />
@@ -2724,6 +2725,121 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="ObjectNode 如何转map" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
+        <entry key="water-kc|1780516383653258|InlineTab">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="org.springframework.web.client.RestTemplate.postForObject  返回对象  @JsonProperty(&quot;errorcode&quot;)无效" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="17" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-common\src\main\java\com\dcdev\kc\common\web\WeChatResponseMessage.java#L17-L17" />
+                      <option name="name" value="D:\project\dcxx\water-kc\water-kc-common\src\main\java\com\dcdev\kc\common\web\WeChatResponseMessage.java#L17-L17" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="17" />
+                      <option name="text" value="WeChatResponseMessage.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="需要" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Error while extracting response for type [class com.dcdev.kc.common.web.WeChatResponseMessage] and content type [application/json;encoding=utf-8]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized field &quot;errcode&quot; (class com.dcdev.kc.common.web.WeChatResponseMessage), not marked as ignorable; nested exception is com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;errcode&quot; (class com.dcdev.kc.common.web.WeChatResponseMessage), not marked as ignorable (2 known properties: &quot;errormsg&quot;, &quot;errorcode&quot;])&#10; at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 17] (through reference chain: com.dcdev.kc.common.web.WeChatResponseMessage[&quot;errcode&quot;])&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
