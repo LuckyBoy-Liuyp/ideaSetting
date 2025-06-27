@@ -2477,19 +2477,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="选择某个提交合并" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="git 选择性合并代码 " />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2725,6 +2712,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="ObjectNode 如何转map" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="判断字符串是否是json数组" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
