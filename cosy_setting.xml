@@ -2477,19 +2477,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="git 选择性合并代码 " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="    java中@JsonIgnore 有什么作用" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2725,6 +2712,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="判断字符串是否是json数组" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="Unexpected character ('k' (code 107)): was expecting double-quote to start field name&#10; at [Source: (String)&quot;[{key=thing1, name=活动主题, type=thing, value=1, required=true}, {key=time2, name=活动时间, type=time, value=2025年6月30日 11:32, required=true}, {key=thing5, name=活动概述, type=thing, value=, required=false}, {key=thing6, name=活动地点, type=thing, value=1, required=true}, {key=thing13, name=温馨提示, type=thing, value=, required=false}]&quot;; line: 1, column: 4]&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
