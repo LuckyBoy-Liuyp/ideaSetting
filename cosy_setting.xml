@@ -2477,19 +2477,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="入参为map格式" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="mysql 分页如何写" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -3030,6 +3017,19 @@
                       <option name="type" value="context" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="[{&quot;orgCode&quot;:&quot;3300017007020003001&quot;,&quot;orgName&quot;:&quot;智小川团队&quot;},{&quot;orgCode&quot;:&quot;3300017007020003002&quot;,&quot;orgName&quot;:&quot;数据融合团队&quot;},{&quot;orgCode&quot;:&quot;3300017007020003003&quot;,&quot;orgName&quot;:&quot;智慧物联团队&quot;}]&#10;java将以上json提取orgCode为list&lt;String&gt;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
