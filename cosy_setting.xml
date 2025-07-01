@@ -2477,19 +2477,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="增加查询条件" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="增加分页" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2799,6 +2786,168 @@
                       <option name="statLine" value="158" />
                       <option name="text" value="SysJobRunner.java" />
                       <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#SysJobRunner.java 372-387" />
+                          <option name="id" value="D:\project\dcxx\water-kc\water-kc-msg\src\main\java\com\dcdev\kc\msg\task\msg\SysJobRunner.java#L372-L387" />
+                          <option name="text" value="SysJobRunner.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="&#10;entity参数为：{&quot;template_id&quot;:&quot;oh5ESaFTgtQRo_gdwvfi0R9ZlypqSCh_M7-3aV-IB4o&quot;,&quot;miniprogram_state&quot;:&quot;developer&quot;,&quot;touser&quot;:&quot;o6nD_6_XNMwbAR1FWMrwy03cnp5g&quot;,&quot;page&quot;:&quot;&quot;,&quot;data&quot;:{&quot;thing1&quot;:{&quot;value&quot;:&quot;1&quot;},&quot;time2&quot;:{&quot;value&quot;:&quot;2025年6月30日 11:32&quot;},&quot;thing5&quot;:{&quot;value&quot;:&quot;活动概述&quot;},&quot;thing6&quot;:{&quot;value&quot;:&quot;1&quot;},&quot;thing13&quot;:{&quot;value&quot;:&quot;温馨提示&quot;}}}&#10;微信接口返回：微信接口response: {&quot;errCode&quot;:47001,&quot;errMsg&quot;:&quot;data format error rid: 686377d0-37edbce0-482b90e8&quot;,&quot;msgId&quot;:null} " />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="382" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-msg\src\main\java\com\dcdev\kc\msg\task\msg\SysJobRunner.java#L382-L382" />
+                      <option name="name" value="D:\project\dcxx\water-kc\water-kc-msg\src\main\java\com\dcdev\kc\msg\task\msg\SysJobRunner.java#L382-L382" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="382" />
+                      <option name="text" value="SysJobRunner.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="387" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-msg\src\main\java\com\dcdev\kc\msg\task\msg\SysJobRunner.java#L372-L387" />
+                      <option name="name" value="SysJobRunner.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="372" />
+                      <option name="text" value="SysJobRunner.java" />
+                      <option name="type" value="context" />
                     </ChatContextTag>
                   </list>
                 </option>
