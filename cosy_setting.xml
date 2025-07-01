@@ -2477,19 +2477,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="不引入依赖mybatis-plus-extension&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="pagehelper-spring-boot-starter 有漏洞吗" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -3094,6 +3081,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="MyBatis-Plus 更新禁用某字段" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="    default Children orderByDesc(List&lt;R&gt; columns) 如何传参" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
