@@ -6,7 +6,7 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
