@@ -1502,6 +1502,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="cancelling refresh attempt: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.landray.kmss.rdm.ntermediate.service.spring.RdmNtermediateMainServiceImp] for bean with name 'rdmNtermediateMainTarget' defined in ServletContext resource [/WEB-INF/KmssConfig/rdm/ntermediate/spring.xml]; nested exception is java.lang.ClassNotFoundException: com.landray.kmss.rdm.ntermediate.service.spring.RdmNtermediateMainServiceImp&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
