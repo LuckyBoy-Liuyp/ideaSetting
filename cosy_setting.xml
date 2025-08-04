@@ -1133,115 +1133,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="InputStream 输出文件" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="cancelling refresh attempt: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.landray.kmss.rdm.ntermediate.service.spring.RdmNtermediateMainServiceImp] for bean with name 'rdmNtermediateMainTarget' defined in ServletContext resource [/WEB-INF/KmssConfig/rdm/ntermediate/spring.xml]; nested exception is java.lang.ClassNotFoundException: com.landray.kmss.rdm.ntermediate.service.spring.RdmNtermediateMainServiceImp&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="java8  stream 计算合计" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="110" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L110-L110" />
-                      <option name="name" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L110-L110" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="110" />
-                      <option name="text" value="BmpConvertContractServiceImpl.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="java double运算" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2767,6 +2658,263 @@
                 </option>
                 <option name="contextTags">
                   <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value=" No mapping found for HTTP request with URI [/bmp/convert/bmp_convert_grant_dept/bmpConvertGrantDept.do] in DispatcherServlet with name 'springmvc'&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#spring-mvc.xml 117-139" />
+                          <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\WebContent\WEB-INF\KmssConfig\bmp\convert\spring-mvc.xml#L117-L139" />
+                          <option name="text" value="spring-mvc.xml" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="bean已配置 为什么还是提示搜索不到" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="139" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\WebContent\WEB-INF\KmssConfig\bmp\convert\spring-mvc.xml#L117-L139" />
+                      <option name="name" value="spring-mvc.xml" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="117" />
+                      <option name="text" value="spring-mvc.xml" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="你太棒了" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="120" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\WebContent\WEB-INF\KmssConfig\bmp\convert\spring-mvc.xml#L120-L120" />
+                      <option name="name" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\WebContent\WEB-INF\KmssConfig\bmp\convert\spring-mvc.xml#L120-L120" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="120" />
+                      <option name="text" value="spring-mvc.xml" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="139" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\WebContent\WEB-INF\KmssConfig\bmp\convert\spring-mvc.xml#L117-L139" />
+                      <option name="name" value="spring-mvc.xml" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="117" />
+                      <option name="text" value="spring-mvc.xml" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
                 </option>
               </ChatRecentQuery>
             </list>
