@@ -1133,168 +1133,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="#BmpConvertContractServiceImpl.java 129-131" />
-                          <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L129-L131" />
-                          <option name="text" value="BmpConvertContractServiceImpl.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="列表内参数全部等BMP_PMMDM_STATUS_50时返回BMP_PMMDM_STATUS_50" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="130" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L130-L130" />
-                      <option name="name" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L130-L130" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="130" />
-                      <option name="text" value="BmpConvertContractServiceImpl.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="131" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L129-L131" />
-                      <option name="name" value="BmpConvertContractServiceImpl.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="129" />
-                      <option name="text" value="BmpConvertContractServiceImpl.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="如果bmpList.stream为空会返回什么值" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2538,6 +2376,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="2025-08-05 17:09:38 WARN  [ekp_quartz_thread-pool-10-thread-14] org.hibernate.engine.internal.StatefulPersistenceContext:(684) - HHH000179: Narrowing proxy to class com.landray.kmss.sys.organization.model.SysOrgPerson - this operation breaks ==&#10;javax.persistence.PersistenceException: org.hibernate.HibernateException: identifier of an instance of com.landray.kmss.eop.basedata.model.EopBasedataProject was altered from 196cd500c4e2020a0f802d94dc4bb823 to 197c8c9a439add8b3540b2b458e95cc3&#10;&#9;at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:154)&#10;&#9;at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1515)&#10;&#9;at com.landray.kmss.common.dao.BaseDaoImp.findList(BaseDaoImp.java:143)&#10;&#9;at com.landray.kmss.common.service.BaseServiceImp.findList(BaseServiceImp.java:658)&#10;&#9;at sun.reflect.GeneratedMethodAccessor1514.invoke(Unknown Source)&#10;&#9;at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#10;&#9;at java.lang.reflect.Method.invoke(Method.java:498)&#10;&#9;at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)&#10;&#9;at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:197)&#10;&#9;at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)&#10;&#9;at org.springframework.transaction.interceptor.TransactionAspectSupport.lambda$invokeWithinTransaction$0(TransactionAspectSupport.java:318)&#10;&#9;at com.landray.kmss.framework.spring.event.transaction.HibernateTransactionManagerSupport.execute(HibernateTransactionManagerSupport.java:56)&#10;&#9;at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:315)&#10;&#9;at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)&#10;&#9;at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)&#10;&#9;at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)&#10;&#9;at com.sun.proxy.$Proxy527.findList(Unknown Source)&#10;&#9;at com.landray.kmss.fssc.expense.service.spring.FsscBaseServiceImp.getEopBasedataCostCenterByCode(FsscBaseServiceImp.java:131)&#10;&#9;at com.landray.kmss.rdm.pmmdm.service.spring.RdmPmmdmMainSyncServiceImp.triggerSynchro(RdmPmmdmMainSyncServiceImp.java:120)&#10;&#9;at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#10;&#9;at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#10;&#9;at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#10;&#9;at java.lang.reflect.Method.invoke(Method.java:498)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobRunner.runJob(SysQuartzJobRunner.java:131)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobRunner.run(SysQuartzJobRunner.java:57)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobExecutor$ChainRunnable.run(SysQuartzJobExecutor.java:356)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.ThreadPoolManager$ProxyTask.run(ThreadPoolManager.java:243)&#10;&#9;at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)&#10;&#9;at java.util.concurrent.FutureTask.run(FutureTask.java:266)&#10;&#9;at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)&#10;&#9;at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)&#10;&#9;at java.lang.Thread.run(Thread.java:748)&#10;Caused by: org.hibernate.HibernateException: identifier of an instance of com.landray.kmss.eop.basedata.model.EopBasedataProject was altered from 196cd500c4e2020a0f802d94dc4bb823 to 197c8c9a439add8b3540b2b458e95cc3&#10;&#9;at org.hibernate.event.internal.DefaultFlushEntityEventListener.checkId(DefaultFlushEntityEventListener.java:78)&#10;&#9;at org.hibernate.event.internal.DefaultFlushEntityEventListener.getValues(DefaultFlushEntityEventListener.java:199)&#10;&#9;at org.hibernate.event.internal.DefaultFlushEntityEventListener.onFlushEntity(DefaultFlushEntityEventListener.java:159)&#10;&#9;at org.hibernate.event.internal.AbstractFlushingEventListener.flushEntities(AbstractFlushingEventListener.java:235)&#10;&#9;at org.hibernate.event.internal.AbstractFlushingEventListener.flushEverythingToExecutions(AbstractFlushingEventListener.java:94)&#10;&#9;at org.hibernate.event.internal.DefaultAutoFlushEventListener.onAutoFlush(DefaultAutoFlushEventListener.java:46)&#10;&#9;at org.hibernate.internal.SessionImpl.autoFlushIfRequired(SessionImpl.java:1433)&#10;&#9;at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1519)&#10;&#9;at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1538)&#10;&#9;at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1506)&#10;&#9;... 32 more&#10;2025-08-05 17:09:38 ERROR [ekp_quartz_thread-pool-10-thread-14] com.landray.kmss.sys.quartz.interfaces.SysQuartzJobContext:(139) - rdm-pmmdm:rdmPmmdmMain.triggerSynchro.project事务回滚出错&#10;org.springframework.transaction.IllegalTransactionStateException: Transaction is already completed - do not call commit or rollback more than once per transaction&#10;&#9;at org.springframework.transaction.support.AbstractPlatformTransactionManager.rollback(AbstractPlatformTransactionManager.java:807)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobRunner.runJob(SysQuartzJobRunner.java:137)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobRunner.run(SysQuartzJobRunner.java:57)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobExecutor$ChainRunnable.run(SysQuartzJobExecutor.java:356)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.ThreadPoolManager$ProxyTask.run(ThreadPoolManager.java:243)&#10;&#9;at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)&#10;&#9;at java.util.concurrent.FutureTask.run(FutureTask.java:266)&#10;&#9;at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)&#10;&#9;at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)&#10;&#9;at java.lang.Thread.run(Thread.java:748)&#10;2025-08-05 17:09:38 ERROR [ekp_quartz_thread-pool-10-thread-14] com.landray.kmss.sys.quartz.interfaces.SysQuartzJobContext:(33) - RDM项目同步到财务项目发生错误&#10;org.springframework.transaction.UnexpectedRollbackException: Transaction rolled back because it has been marked as rollback-only&#10;&#9;at org.springframework.transaction.support.AbstractPlatformTransactionManager.processRollback(AbstractPlatformTransactionManager.java:873)&#10;&#9;at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:710)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobRunner.runJob(SysQuartzJobRunner.java:133)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobRunner.run(SysQuartzJobRunner.java:57)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.SysQuartzJobExecutor$ChainRunnable.run(SysQuartzJobExecutor.java:356)&#10;&#9;at com.landray.kmss.sys.quartz.scheduler.ThreadPoolManager$ProxyTask.run(ThreadPoolManager.java:243)&#10;&#9;at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)&#10;&#9;at java.util.concurrent.FutureTask.run(FutureTask.java:266)&#10;&#9;at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)&#10;&#9;at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)&#10;&#9;at java.lang.Thread.run(Thread.java:748)&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="UPPER(eopBasedataCostCenter.fdCode) 解释下" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
