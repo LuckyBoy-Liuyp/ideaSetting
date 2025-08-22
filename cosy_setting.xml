@@ -1134,19 +1134,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="hbm.xml 中如何编写" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="原因: 不存在变量类型的实例，因此List&lt;BmpConvertContractProject&gt; 符合BmpConvertContractProject&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1978,6 +1965,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="git checkout master       &#10;README.md: needs merge&#10;error: you need to resolve your current index first&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="js给input元素这种val" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
