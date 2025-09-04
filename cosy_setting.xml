@@ -257,6 +257,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value=" public static String generateWord(CustomData customData, String filePath, Consumer&lt;XWPFDocument&gt; addTableMethod) {&#10;    String templatePath = customData.getTemplatePath();&#10;    String generatorPath = filePath;&#10;&#10;    try {&#10;      FileInputStream fileInputStream = new FileInputStream(templatePath);&#10;      Throwable var6 = null;&#10;&#10;      try {&#10;        XWPFDocument document = new XWPFDocument(fileInputStream);&#10;        Throwable var8 = null;&#10;&#10;        try {&#10;          OutputStream output = new FileOutputStream(generatorPath);&#10;          Throwable var10 = null;&#10;&#10;          try {&#10;            addTableMethod.accept(document);&#10;            document.write(output);&#10;          } catch (Throwable var57) {&#10;            var10 = var57;&#10;            throw var57;&#10;          } finally {&#10;            if (output != null) {&#10;              if (var10 != null) {&#10;                try {&#10;                  output.close();&#10;                } catch (Throwable var56) {&#10;                  var10.addSuppressed(var56);&#10;                }&#10;              } else {&#10;                output.close();&#10;              }&#10;            }&#10;&#10;          }&#10;        } catch (Throwable var59) {&#10;          var8 = var59;&#10;          throw var59;&#10;        } finally {&#10;          if (document != null) {&#10;            if (var8 != null) {&#10;              try {&#10;                document.close();&#10;              } catch (Throwable var55) {&#10;                var8.addSuppressed(var55);&#10;              }&#10;            } else {&#10;              document.close();&#10;            }&#10;          }&#10;&#10;        }&#10;      } catch (Throwable var61) {&#10;        var6 = var61;&#10;        throw var61;&#10;      } finally {&#10;        if (fileInputStream != null) {&#10;          if (var6 != null) {&#10;            try {&#10;              fileInputStream.close();&#10;            } catch (Throwable var54) {&#10;              var6.addSuppressed(var54);&#10;            }&#10;          } else {&#10;            fileInputStream.close();&#10;          }&#10;        }&#10;&#10;      }&#10;    } catch (Exception var63) {&#10;      throw new WtgException(&quot;生成word失败&quot;, var63);&#10;    }&#10;&#10;    return filePath + &quot;.pdf&quot;;&#10;  }&#10;&#10;修改为返回文件流的形式" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
