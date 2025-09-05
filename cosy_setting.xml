@@ -1352,102 +1352,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="UNION ALL 在 HQLInfo如何编写" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="234" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertContractAction.java#L234-L234" />
-                      <option name="name" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertContractAction.java#L234-L234" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="234" />
-                      <option name="text" value="BmpConvertContractAction.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="java8 map.key如何匹配list&lt;Stirng&gt;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value=" No mapping found for HTTP request with URI [/bmp/convert/bmp_convert_grant_dept/bmpConvertGrantDept.do] in DispatcherServlet with name 'springmvc'&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -2210,6 +2114,260 @@
                       <option name="sourceType" value="system" />
                       <option name="text" value="BmpConvertContractServiceImpl.java" />
                       <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#BmpConvertGrantDetailsAction.java 51-56" />
+                          <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L51-L56" />
+                          <option name="text" value="BmpConvertGrantDetailsAction.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value=" 修改改为文件下载接口" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="56" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L51-L56" />
+                      <option name="name" value="BmpConvertGrantDetailsAction.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="51" />
+                      <option name="text" value="BmpConvertGrantDetailsAction.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#BmpConvertGrantDetailsAction.java 52-59" />
+                          <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L52-L59" />
+                          <option name="text" value="BmpConvertGrantDetailsAction.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="修改改为文件下载接口" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="59" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L52-L59" />
+                      <option name="name" value="BmpConvertGrantDetailsAction.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="52" />
+                      <option name="text" value="BmpConvertGrantDetailsAction.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="56" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L51-L56" />
+                      <option name="name" value="BmpConvertGrantDetailsAction.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="51" />
+                      <option name="text" value="BmpConvertGrantDetailsAction.java" />
+                      <option name="type" value="context" />
                     </ChatContextTag>
                   </list>
                 </option>
