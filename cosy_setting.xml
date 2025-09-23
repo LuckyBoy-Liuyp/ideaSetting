@@ -1352,32 +1352,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="git checkout master       &#10;README.md: needs merge&#10;error: you need to resolve your current index first&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="js给input元素这种val" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="jsp中${}内如何使用forEach的参数" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -3288,6 +3262,112 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="01&#10;org.springframework.transaction.UnexpectedRollbackException: Transaction rolled back because it has been marked as rollback-only&#10;002&#10;    org.springframework.transaction.support.AbstractPlatformTransactionManager.processRollback(AbstractPlatformTransactionManager.java:873)&#10;003&#10;    org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:710)&#10;004&#10;    com.landray.kmss.framework.spring.event.transaction.HibernateTransactionManagerSupport.execute(HibernateTransactionManagerSupport.java:61)&#10;005&#10;    org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:315)&#10;006&#10;    org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)&#10;007&#10;    org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)&#10;008&#10;    org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)&#10;009&#10;    com.sun.proxy.$Proxy770.update(Unknown Source)&#10;010&#10;    com.landray.kmss.common.actions.ExtendAction.update(ExtendAction.java:334)&#10;011&#10;    sun.reflect.GeneratedMethodAccessor14251.invoke(Unknown Source)&#10;012&#10;    sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#10;013&#10;    java.lang.reflect.Method.invoke(Method.java:498)&#10;014&#10;    com.landray.kmss.common.actions.KmssMultiActionController.dispatchMethod(KmssMultiActionController.java:140)&#10;015&#10;    com.landray.kmss.common.actions.KmssMultiActionController.execute(KmssMultiActionController.java:107)&#10;016&#10;    com.landray.kmss.common.actions.BaseAction.execute(BaseAction.java:1)&#10;017&#10;    com.landray.kmss.common.actions.BaseSearchAction.execute(BaseSearchAction.java:1)&#10;018&#10;    com.landray.kmss.common.actions.ExtendAction.execute(ExtendAction.java:1)&#10;019&#10;    sun.reflect.GeneratedMethodAccessor6688.invoke(Unknown Source)&#10;020&#10;    sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#10;021&#10;    java.lang.reflect.Method.invoke(Method.java:498)&#10;022&#10;    com.landray.kmss.common.actions.KmssMultiActionController.invokeMethod(KmssMultiActionController.java:305)&#10;023&#10;    com.landray.kmss.common.actions.KmssMultiActionController.processStrutsAction(KmssMultiActionController.java:255)&#10;024&#10;    com.landray.kmss.common.actions.KmssMultiActionController.chooseStyle(KmssMultiActionController.java:178)&#10;025&#10;    com.landray.kmss.common.actions.KmssMultiActionController.handleRequestInternal(KmssMultiActionController.java:80)&#10;026&#10;    org.springframework.web.servlet.mvc.AbstractController.handleRequest(AbstractController.java:177)&#10;027&#10;    com.landray.kmss.common.actions.AbstractActionController.handleRequest(AbstractActionController.java:257)&#10;028&#10;    org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter.handle(SimpleControllerHandlerAdapter.java:52)&#10;029&#10;    org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)&#10;030&#10;    org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)&#10;031&#10;    org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:981)&#10;032&#10;    org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:884)&#10;033&#10;    javax.servlet.http.HttpServlet.service(HttpServlet.java:515)&#10;034&#10;    org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:858)&#10;035&#10;    javax.servlet.http.HttpServlet.service(HttpServlet.java:583)&#10;036&#10;    org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212)&#10;037&#10;    org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156)&#10;038&#10;    org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)&#10;039&#10;    org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181)&#10;040&#10;    org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156)&#10;041&#10;    org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)&#10;042&#10;    com.landray.kmss.web.filter.CheckIfTrustSiteUnknownRefererFilter.doFilter(CheckIfTrustSiteUnknownRefererFilter.java:31)&#10;043&#10;    org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)&#10;044&#10;    com.landray.kmss.sys.cache.filter.WebContentCacheFilter.doFilterInternal(WebContentCacheFilter.java:123)&#10;045&#10;    org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)&#10;046&#10;    org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)&#10;047&#10;    org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)&#10;048&#10;    org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)&#10;049&#10;    org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)&#10;050&#10;    org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)&#10;051&#10;    org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)&#10;052&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:205)&#10;053&#10;    com.landray.kmss.sys.attachment.integrate.wps.filter.WpsPluginRedirectFilter.doFilter(WpsPluginRedirectFilter.java:87)&#10;054&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;055&#10;    com.landray.kmss.sys.authentication.ssoclient.EKPSSOClientChgUserEventFilter.doFilter(EKPSSOClientChgUserEventFilter.java:62)&#10;056&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;057&#10;    com.landray.kmss.third.pda.interfaces.ThirdPdaRedirectFilter.doFilter(ThirdPdaRedirectFilter.java:166)&#10;058&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;059&#10;    com.landray.kmss.kms.cowriting.filter.WordPluginRedirectFilter.doFilter(WordPluginRedirectFilter.java:70)&#10;060&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;061&#10;    org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)&#10;062&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;063&#10;    org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)&#10;064&#10;    com.landray.kmss.sys.authentication.integration.KmssAuthenticationProcessingFilter.doFilter(KmssAuthenticationProcessingFilter.java:365)&#10;065&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;066&#10;    com.landray.kmss.sys.authentication.integration.KmssDataPreFilter.doFilter(KmssDataPreFilter.java:85)&#10;067&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;068&#10;    com.landray.kmss.third.sangfor.sso.OAuthProcessingFilter.doFilter(OAuthProcessingFilter.java:96)&#10;069&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;070&#10;    com.landray.kmss.third.ldap.authentication.LdapAuthenticationProcessingFilter.doFilter(LdapAuthenticationProcessingFilter.java:68)&#10;071&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;072&#10;    com.landray.kmss.third.koal.sso.KoalSSOProcessingFilter.doFilter(KoalSSOProcessingFilter.java:74)&#10;073&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;074&#10;    com.landray.kmss.third.ding.sso.DingPc2OuterBrowserFilter.doFilter(DingPc2OuterBrowserFilter.java:70)&#10;075&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;076&#10;    com.landray.kmss.third.ding.sso.DingPcOutOpenFilter.doFilter(DingPcOutOpenFilter.java:54)&#10;077&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;078&#10;    com.landray.kmss.third.ding.sso.DingPcAuthProcessingFilter.doFilter(DingPcAuthProcessingFilter.java:272)&#10;079&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;080&#10;    com.landray.kmss.third.ding.sso.Oauth2AuthProcessingFilter.doFilter(Oauth2AuthProcessingFilter.java:185)&#10;081&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;082&#10;    com.landray.kmss.sys.modeling.common.filter.ModelingBaseFilter.doFilter(ModelingBaseFilter.java:75)&#10;083&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;084&#10;    com.landray.kmss.sys.modeling.common.filter.ModelingMainFilter.doFilter(ModelingMainFilter.java:59)&#10;085&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;086&#10;    com.landray.kmss.sys.modeling.base.filter.DynamicLinkFilter.doFilter(DynamicLinkFilter.java:61)&#10;087&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;088&#10;    com.landray.kmss.sys.modeling.main.filter.ModelingAppStatusFilter.doFilter(ModelingAppStatusFilter.java:107)&#10;089&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;090&#10;    com.landray.kmss.sys.modeling.base.filter.ModelingCommonHandlerFilter.doFilter(ModelingCommonHandlerFilter.java:31)&#10;091&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;092&#10;    com.landray.kmss.sys.modeling.base.filter.ModelingOperLogFilter.doFilter(ModelingOperLogFilter.java:34)&#10;093&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;094&#10;    com.landray.kmss.sys.authentication.ssoclient.EKPSSOClientAuthenticationFilter$1.doFilter(EKPSSOClientAuthenticationFilter.java:183)&#10;095&#10;    com.landray.kmss.sys.authentication.ssoclient.EKPSSOClient.doFilter(EKPSSOClient.java:194)&#10;096&#10;    com.landray.kmss.sys.authentication.ssoclient.EKPSSOClientAuthenticationFilter.doFilter(EKPSSOClientAuthenticationFilter.java:186)&#10;097&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;098&#10;    com.landray.kmss.sl.data.EkpSSOFilter.doFilter(EkpSSOFilter.java:121)&#10;099&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;100&#10;    com.landray.kmss.dbcenter.behavior.request.RequestLogger.doFilter(RequestLogger.java:39)&#10;101&#10;    com.landray.kmss.sys.authentication.integration.KmssProcessingFilterProxy$VirtualFilterChain.doFilter(KmssProcessingFilterProxy.java:214)&#10;102&#10;    com.landray.kmss.sys.authentication.integration.CheckAuthenticationLockFilter.doFilter(CheckAuthenticationLockFilter.java:46)&#10;103&#10;    com.landray.kmss.sy&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#BmpConvertContractServiceImpl.java 99-102" />
+                          <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L99-L102" />
+                          <option name="text" value="BmpConvertContractServiceImpl.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value=" 怎么加limit" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="102" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L99-L102" />
+                      <option name="name" value="BmpConvertContractServiceImpl.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="99" />
+                      <option name="text" value="BmpConvertContractServiceImpl.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="不能直接在sql语句里加吗" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
