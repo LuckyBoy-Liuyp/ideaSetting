@@ -29,7 +29,7 @@
     <option name="lastTrimTime" value="1663921387978" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1737569819922" />
+    <option name="lastTrimTime" value="1758701457435" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -40,6 +40,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="hqlInfo.getDistinctType() == HQLInfo.DISTINCT_YES)" />
       <item value="count" />
       <item value="sblx" />
       <item value="&lt;key property-ref=&quot;com.landray.kmss.bmp.expayment.supmdm.model.BmpSupmdmMain&quot; column=&quot;fd_source_id&quot;&gt;" />
