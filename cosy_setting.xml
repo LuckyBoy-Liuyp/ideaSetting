@@ -2138,430 +2138,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="java 获取bmpConvertGrantDetails.getFdConvertType()字段名" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="199" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertGrantDetailsServiceImpl.java#L199-L199" />
-                      <option name="name" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertGrantDetailsServiceImpl.java#L199-L199" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="199" />
-                      <option name="text" value="BmpConvertGrantDetailsServiceImpl.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="59" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L52-L59" />
-                      <option name="name" value="BmpConvertGrantDetailsAction.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="52" />
-                      <option name="text" value="BmpConvertGrantDetailsAction.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="56" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L51-L56" />
-                      <option name="name" value="BmpConvertGrantDetailsAction.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="51" />
-                      <option name="text" value="BmpConvertGrantDetailsAction.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="SELECT&#10;&#9;fd_id,&#10;&#9;fd_principal_id,&#10;&#9;doc_subject &#10;FROM&#10;&#9;rdm_pmmdm_main rdmPmmdmMain &#10;WHERE&#10;&#9;rdmPmmdmMain.fd_end_time BETWEEN : startDate &#10;&#9;AND : endDate &#10;&#9;AND doc_status = 30 &#10;&#9;AND NOT EXISTS (&#10;&#9;SELECT&#10;&#9;&#9;1 &#10;&#9;FROM&#10;&#9;&#9;rdm_pa_record rdmPaRecord &#10;&#9;WHERE&#10;&#9;rdmPaRecord.rdm_pmmdm_main_id = rdmPmmdmMain.fd_id &#10;&#9;AND doc_status != '00'&#10;将该sql改为hqlSQL的格式" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="file" />
-                          <option name="drillDownEnable" value="true" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="file" />
-                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#file" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine" />
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent" />
-                          <entry key="startLine" />
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\constant\SysDocConstant.java" />
-                      <option name="name" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\constant\SysDocConstant.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="text" value="SysDocConstant.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="59" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L52-L59" />
-                      <option name="name" value="BmpConvertGrantDetailsAction.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="52" />
-                      <option name="text" value="BmpConvertGrantDetailsAction.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="56" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\actions\BmpConvertGrantDetailsAction.java#L51-L56" />
-                      <option name="name" value="BmpConvertGrantDetailsAction.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="51" />
-                      <option name="text" value="BmpConvertGrantDetailsAction.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="说错了 是改为HQLInfo的数据结构" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -4101,6 +3677,112 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="分析错误原因：Context initialization failed&#10;org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'bmpConvertGrantDetailsTarget' defined in ServletContext resource [/WEB-INF/KmssConfig/bmp/convert/spring.xml]: Initialization of bean failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.landray.kmss.bmp.convert.service.spring.BmpConvertGrantDetailsServiceImpl] from ClassLoader [ParallelWebappClassLoader&#10;  context: ROOT&#10;  delegate: true&#10;----------&gt; Parent Classloader:&#10;java.net.URLClassLoader@13221655&#10;]&#10;&#9;at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:580)&#10;&#9;at com.landray.kmss.sys.config.loader.KmssLookupListableBeanFactory.doCreateBean(KmssLookupListableBeanFactory.java:28)&#10;&#9;at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:494)&#10;&#9;at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:318)&#10;&#9;at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)&#10;&#9;at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:316)&#10;&#9;at com.landray.kmss.sys.config.loader.KmssLookupListableBeanFactory.doGetBean(KmssLookupListableBeanFactory.java:47)&#10;&#9;at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)&#10;&#9;at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:757)&#10;&#9;at com.landray.kmss.framework.spring.core.LookupListableBeanFactory.preInstantiateSingletons(LookupListableBeanFactory.java:40)&#10;&#9;at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:881)&#10;&#9;at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)&#10;&#9;at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:409)&#10;&#9;at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:291)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x.initWebApplicationContext(ContextLoaderSupport4Spring3x.java:79)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x.access$1(ContextLoaderSupport4Spring3x.java:75)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x$LoadContext.initLoadContextHelper(ContextLoaderSupport4Spring3x.java:201)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x$LoadContext.initLoad(ContextLoaderSupport4Spring3x.java:190)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x.initSmartApplicationContext(ContextLoaderSupport4Spring3x.java:67)&#10;&#9;at com.landray.kmss.sys.config.loader.SpringLoader.doLoad(SpringLoader.java:46)&#10;&#9;at com.landray.kmss.framework.loader.FrameworkContextLoader.doFrameworkLoader(FrameworkContextLoader.java:122)&#10;&#9;at com.landray.kmss.framework.loader.FrameworkContextLoader.doLoadForPoint(FrameworkContextLoader.java:105)&#10;&#9;at com.landray.kmss.framework.loader.FrameworkContextLoader.doLoad(FrameworkContextLoader.java:75)&#10;&#9;at com.landray.kmss.framework.plugin.core.event.AbstractEventDefinition$VirtualLoadChain.doLoad(AbstractEventDefinition.java:294)&#10;&#9;at com.landray.kmss.framework.service.plugin.config.FromAttributeInterceptor.doLoad(FromAttributeInterceptor.java:46)&#10;&#9;at com.landray.kmss.framework.plugin.core.event.AbstractEventDefinition$VirtualLoadChain.doLoad(AbstractEventDefinition.java:294)&#10;&#9;at com.landray.kmss.framework.plugin.core.event.AbstractEventDefinition.loadDefinition(AbstractEventDefinition.java:245)&#10;&#9;at com.landray.kmss.framework.plugin.core.support.AbstractPluginFactory.getExtensionPoint(AbstractPluginFactory.java:44)&#10;&#9;at com.landray.kmss.framework.plugin.core.support.DefaultListableFactory.instantiateAllPlugin(DefaultListableFactory.java:54)&#10;&#9;at com.landray.kmss.framework.plugin.core.context.AbstractApplicationContext.refresh(AbstractApplicationContext.java:74)&#10;&#9;at com.landray.kmss.framework.plugin.core.context.AbstractConfigurableApplicationContext.refresh(AbstractConfigurableApplicationContext.java:48)&#10;&#9;at com.landray.kmss.framework.plugin.core.context.PluginContextLoader.createPluginContext(PluginContextLoader.java:74)&#10;&#9;at com.landray.kmss.framework.plugin.core.context.PluginContextLoader.initPluginContext(PluginContextLoader.java:42)&#10;&#9;at com.landray.kmss.framework.plugin.core.context.PluginContextLoader.initPluginContext(PluginContextLoader.java:32)&#10;&#9;at com.landray.kmss.framework.plugin.loader.PluginContextLoaderListener.contextInitialized(PluginContextLoaderListener.java:174)&#10;&#9;at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4441)&#10;&#9;at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4899)&#10;&#9;at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)&#10;&#9;at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1364)&#10;&#9;at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1354)&#10;&#9;at java.util.concurrent.FutureTask.run(FutureTask.java:266)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)&#10;&#9;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)&#10;&#9;at java.lang.Thread.run(Thread.java:748)&#10;Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.landray.kmss.bmp.convert.service.spring.BmpConvertGrantDetailsServiceImpl] from ClassLoader [ParallelWebappClassLoader&#10;  context: ROOT&#10;  delegate: true&#10;----------&gt; Parent Classloader:&#10;java.net.URLClassLoader@13221655&#10;]&#10;&#9;at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:507)&#10;&#9;at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:404)&#10;&#9;at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:389)&#10;&#9;at org.springframework.util.ReflectionUtils.getAllDeclaredMethods(ReflectionUtils.java:434)&#10;&#9;at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:247)&#10;&#9;at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:288)&#10;&#9;at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:269)&#10;&#9;at org.springframework.aop.framework.AbstractAdvisingBeanPostProcessor.isEligible(AbstractAdvisingBeanPostProcessor.java:133)&#10;&#9;at org.springframework.aop.framework.AbstractAdvisingBeanPostProcessor.isEligible(AbstractAdvisingBeanPostProcessor.java:115)&#10;&#9;at org.springframework.aop.framework.AbstractAdvisingBeanPostProcessor.postProcessAfterInitialization(AbstractAdvisingBeanPostProcessor.java:85)&#10;&#9;at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsAfterInitialization(AbstractAutowireCapableBeanFactory.java:430)&#10;&#9;at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1689)&#10;&#9;at com.landray.kmss.framework.spring.core.LookupListableBeanFactory.initializeBean(LookupListableBeanFactory.java:75)&#10;&#9;at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:572)&#10;&#9;... 43 common frames omitted&#10;Caused by: java.lang.NoClassDefFoundError: com/wtg/exc/common/CustomData&#10;&#9;at java.lang.Class.getDeclaredMethods0(Native Method)&#10;&#9;at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)&#10;&#9;at java.lang.Class.getDeclaredMethods(Class.java:1975)&#10;&#9;at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:489)&#10;&#9;... 56 common frames omitted&#10;Caused by: java.lang.ClassNotFoundException: com.wtg.exc.common.CustomData&#10;&#9;at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1338)&#10;&#9;at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1150)&#10;&#9;... 60 common frames omitted&#10;2025-10-20 10:15:46 ERROR [localhost-startStop-1] com.landray.kmss.framework.plugin.core.support.DefaultListableFactory:(251) - 根据文件[/WEB-INF/KmssConfig/sys/common/plugin.xml]扩展点定义[com.landray.kmss.sys.config.loader]，创建扩展点实例时出错&#10;org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'bmpConvertGrantDetailsTarget' defined in ServletContext resource [/WEB-INF/KmssConfig/bmp/convert/spring.xml]: Initialization of bean failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.landray.kmss.bmp.convert.service.spring.BmpConvertGrantDetailsServiceImpl] from ClassLoader [ParallelWebappClassLoader&#10;  context: ROOT&#10;  delegate: true&#10;----------&gt; Parent Classloader:&#10;java.net.URLClassLoader@13221655&#10;]&#10;&#9;at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:580)&#10;&#9;at com.landray.kmss.sys.config.loader.KmssLookupListableBeanFactory.doCreateBean(KmssLookupListableBeanFactory.java:28)&#10;&#9;at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:494)&#10;&#9;at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:318)&#10;&#9;at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)&#10;&#9;at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:316)&#10;&#9;at com.landray.kmss.sys.config.loader.KmssLookupListableBeanFactory.doGetBean(KmssLookupListableBeanFactory.java:47)&#10;&#9;at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)&#10;&#9;at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:757)&#10;&#9;at com.landray.kmss.framework.spring.core.LookupListableBeanFactory.preInstantiateSingletons(LookupListableBeanFactory.java:40)&#10;&#9;at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:881)&#10;&#9;at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)&#10;&#9;at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:409)&#10;&#9;at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:291)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x.initWebApplicationContext(ContextLoaderSupport4Spring3x.java:79)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x.access$1(ContextLoaderSupport4Spring3x.java:75)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x$LoadContext.initLoadContextHelper(ContextLoaderSupport4Spring3x.java:201)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x$LoadContext.initLoad(ContextLoaderSupport4Spring3x.java:190)&#10;&#9;at com.landray.kmss.sys.config.loader.ContextLoaderSupport4Spring3x.initSmartApplicationContext(ContextLoaderSupport4Spring3x.java:67)&#10;&#9;at com.landray.kmss.sys.config.loader.SpringLoader.doLoad(SpringLoader.java:46)&#10;&#9;at com.landray.kmss.framework.loader.FrameworkContextLoader.doFrameworkLoader(FrameworkContextLoader.java:122)&#10;&#9;at com.landray.kmss.framework.loader.FrameworkContextLoader.doLoadForPoint(FrameworkContextLoader.java:105)&#10;&#9;at com.landray.kmss.framework.loader.FrameworkContextLoader.doLoad(FrameworkContextLoader.java:75)&#10;&#9;at com.landray.kmss.framework.plugin.core.event.AbstractEventDefinition$VirtualLoadChain.doLoad(AbstractEventDefinition.java:294)&#10;&#9;at com.landray.kmss.framework.service.plugin.config.FromAttributeInterceptor.doLoad(FromAttributeInterceptor.java:46)&#10;&#9;at com.landray.kmss.framework.plugin.core.event.AbstractEventDefinition$VirtualLoadChain.doLoad(AbstractEventDefinition.java:294)&#10;&#9;at com.landray.kmss.framework.plugin.core.event.Abstr" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#BmpConvertContractServiceImpl.java 329-337" />
+                          <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L329-L337" />
+                          <option name="text" value="BmpConvertContractServiceImpl.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="为什么会丢失精度" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="337" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\bmp\convert\service\spring\BmpConvertContractServiceImpl.java#L329-L337" />
+                      <option name="name" value="BmpConvertContractServiceImpl.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="329" />
+                      <option name="text" value="BmpConvertContractServiceImpl.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="如何解决精度缺失" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
