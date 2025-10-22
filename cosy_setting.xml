@@ -5015,58 +5015,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="mybatis-plus-jsqlparser-4.9 使用方法" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="分页代码如何写 并返回page对象" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="使用java RestTemplate 请求post接口最简单的方法" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="restTemplate.postForObject 使用的jacosn做对象转换的吗" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="Jackson 如何使用别名注解" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -5708,6 +5656,58 @@
                       <option name="type" value="currentFile" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="只拿到knowledgeNum的总和应该怎么写" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="SELECT&#10;        kftt.id,&#10;        kftt.featured_topics_code,&#10;        kftt.featured_topics_name,&#10;        IFNULL(bb.file_count, 0) AS file_count,&#10;        IFNULL(bb.knowledge_num, 0) AS knowledge_num&#10;    FROM&#10;        knowledge_featured_topics_type kftt&#10;    LEFT JOIN (&#10;        SELECT&#10;            aa.featured_topics_name,&#10;            COUNT(DISTINCT file.file_id) AS file_count,&#10;            IFNULL(SUM(file.knowledge_num), 0) AS knowledge_num&#10;        FROM (&#10;            SELECT DISTINCT&#10;                kft.featured_topics_name,&#10;                a.knowledge_id,&#10;                a.public_status,&#10;                a.create_user_code&#10;            FROM&#10;                qa_knowledge_base_info a&#10;            INNER JOIN knowledge_featured_topics kft ON a.knowledge_id = kft.knowledge_id&#10;            WHERE&#10;                a.enable_status = '1'&#10;                AND a.show_status = '1'&#10;        ) aa&#10;        JOIN (&#10;            SELECT t1.knowledge_id, t1.role_id&#10;            FROM qa_role_knowledge_relation t1&#10;            INNER JOIN role_infos t2 ON t1.role_id = t2.role_id&#10;        ) b ON aa.knowledge_id = b.knowledge_id&#10;        JOIN system_userrole c ON b.role_id = c.role_code&#10;        JOIN system_userinfo d ON c.user_code = d.user_code&#10;        JOIN qa_knowledge_file_infos file ON file.knowledge_id = aa.knowledge_id&#10;        WHERE&#10;            file.enable_status = '1'&#10;            AND aa.public_status = '1'&#10;        GROUP BY aa.featured_topics_name&#10;    ) bb ON kftt.featured_topics_name = bb.featured_topics_name;&#10;&#9;&#9;&#10;&#9;&#9;&#10;SELECT&#10;&#9;IFNULL( SUM( kfi.knowledge_num ), 0 ) AS total_knowledge_num &#10;FROM&#10;&#9;qa_knowledge_file_infos kfi&#10;&#9;INNER JOIN qa_knowledge_base_info kbi ON kfi.knowledge_id = kbi.knowledge_id &#10;WHERE&#10;&#9;kfi.enable_status = '1' &#10;&#9;AND kbi.enable_status = '1' &#10;&#9;AND kbi.show_status = '1' &#10;&#9;AND kbi.public_status = '1';&#10;&#10;为什么这两条sql查询出来knowledge_num的汇总值不一样" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="针对这条sql如何简化：SELECT&#10;    IFNULL(SUM(file.knowledge_num), 0) AS total_knowledge_num&#10;FROM (&#10;    SELECT DISTINCT&#10;        a.knowledge_id,&#10;        a.public_status,&#10;        a.create_user_code&#10;    FROM&#10;        qa_knowledge_base_info a&#10;    INNER JOIN knowledge_featured_topics kft ON a.knowledge_id = kft.knowledge_id&#10;    WHERE&#10;        a.enable_status = '1'&#10;        AND a.show_status = '1'&#10;) aa&#10;JOIN (&#10;    SELECT t1.knowledge_id, t1.role_id&#10;    FROM qa_role_knowledge_relation t1&#10;    INNER JOIN role_infos t2 ON t1.role_id = t2.role_id&#10;) b ON aa.knowledge_id = b.knowledge_id&#10;JOIN system_userrole c ON b.role_id = c.role_code&#10;JOIN system_userinfo d ON c.user_code = d.user_code&#10;JOIN qa_knowledge_file_infos file ON file.knowledge_id = aa.knowledge_id&#10;WHERE&#10;    file.enable_status = '1'&#10;    AND aa.public_status = '1';" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="修改后数据怎么变少了 " />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
