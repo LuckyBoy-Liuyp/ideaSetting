@@ -5015,32 +5015,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="ObjectNode 如何转map" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="判断字符串是否是json数组" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="Unexpected character ('k' (code 107)): was expecting double-quote to start field name&#10; at [Source: (String)&quot;[{key=thing1, name=活动主题, type=thing, value=1, required=true}, {key=time2, name=活动时间, type=time, value=2025年6月30日 11:32, required=true}, {key=thing5, name=活动概述, type=thing, value=, required=false}, {key=thing6, name=活动地点, type=thing, value=1, required=true}, {key=thing13, name=温馨提示, type=thing, value=, required=false}]&quot;; line: 1, column: 4]&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -5702,6 +5676,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="使用LambdaQueryWrapper 对象的情况下如何查询" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="有其他的写法吗" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="使用 LIKE 组合查询 的方式再优化下" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
