@@ -29,7 +29,7 @@
     <option name="lastTrimTime" value="1663921387978" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1758701457435" />
+    <option name="lastTrimTime" value="1763088821747" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -40,6 +40,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="private void record(int n) { bytes.add(n); long now = System.nanoTime(); long t = last.get(); if (now - t &gt;= 1_000_000_000L &amp;&amp; last.compareAndSet(t, now)) { double mbps = bytes.sumThenReset() 1_048_576.0; System.out.printf(&quot;↑ %.2f MBs%n&quot;, mbps); } }" />
       <item value="hqlInfo.getDistinctType() == HQLInfo.DISTINCT_YES)" />
       <item value="count" />
       <item value="sblx" />
