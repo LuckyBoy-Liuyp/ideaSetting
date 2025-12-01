@@ -5088,19 +5088,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="    default Children orderByDesc(List&lt;R&gt; columns) 如何传参" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="sql解析 是什么语言" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -5943,6 +5930,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="operationEnabledStatus 缩写下 用于开放接口" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="UpdateWrapper使用方式" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
