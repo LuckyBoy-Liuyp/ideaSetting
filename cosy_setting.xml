@@ -6755,138 +6755,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="#YtgStationInfosMapper.xml 19-61" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\resources\mapper\ytg\YtgStationInfosMapper.xml#L19-L61" />
-                          <option name="text" value="YtgStationInfosMapper.xml" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="com.baomidou.mybatisplus.core.exceptions.MybatisPlusException: can't found IPage for args!&#10;&#9;at com.baomidou.mybatisplus.core.toolkit.ExceptionUtils.mpe(ExceptionUtils.java:49)&#10;&#9;at com.baomidou.mybatisplus.core.toolkit.Assert.isTrue(Assert.java:38)&#10;&#9;at com.baomidou.mybatisplus.core.toolkit.Assert.notNull(Assert.java:72)&#10;&#9;at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.executeForIPage(MybatisMapperMethod.java:117)&#10;&#9;at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:84)&#10;&#9;at com.baomidou.mybatisplus.core.override.MybatisMapperProxy$PlainMethodInvoker.invoke(MybatisMapperProxy.java:155)&#10;&#9;at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:92)&#10;&#9;at com.sun.proxy.$Proxy166.pageYtgStationLeftMonitorRecords(Unknown Source)&#10;&#9;at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#10;&#9;at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#10;&#9;at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#10;&#9;at java.lang.reflect.Method.invoke(Method.java:498)&#10;&#9;at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)&#10;&#9;at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)&#10;&#9;at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)&#10;&#9;at com.baomidou.dynamic.datasource.aop.DynamicDataSourceAnnotationInterceptor.invoke(DynamicDataSourceAnnotationInterceptor.java:50)&#10;&#9;at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)&#10;&#9;at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241)&#10;&#9;at com.sun.proxy.$Proxy168.pageYtgStationLeftMonitorRecords(Unknown Source)&#10;&#9;at com.dcdev.kc.manage.service.ytg.impl.YtgStationInfosService.pageYtgStationLeftMonitorRecords(YtgStationInfosService.java:56)&#10;&#9;at com.dcdev.kc.manage.service.ytg.impl.YtgStationInfosService$$FastClassBySpringCGLIB$$ffc70053.invoke(&lt;generated&gt;)&#10;&#9;at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)&#10;&#9;at org.springframework.aop.framework.CglibAopProxy.invokeMethod(CglibAopProxy.java:386)&#10;&#9;at org.springframework.aop.framework.CglibAopProxy.access$000(CglibAopProxy.java:85)&#10;&#9;at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:703)&#10;&#9;at com.dcdev.kc.manage.service.ytg.impl.YtgStationInfosService$$EnhancerBySpringCGLIB$$aa2e1282.pageYtgStationLeftMonitorRecords(&lt;generated&gt;)&#10;&#9;at com.dcdev.kc.msg.controller.ytg.YtgStationInfosController.pageListYtgStationInfos(YtgStationInfosController.java:131)&#10;&#9;at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#10;&#9;at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#10;&#9;at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#10;&#9;at java.lang.reflect.Method.invoke(Method.java:498)&#10;&#9;at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)&#10;&#9;at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)&#10;&#9;at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)&#10;&#9;at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:903)&#10;&#9;at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:809)&#10;&#9;at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)&#10;&#9;at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072)&#10;&#9;at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965)&#10;&#9;at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)&#10;&#9;at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)&#10;&#9;at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)&#10;&#9;at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)&#10;&#9;at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)&#10;&#9;at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)&#10;&#9;at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)&#10;&#9;at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)&#10;&#9;at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:114)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)&#10;&#9;at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)&#10;&#9;at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)&#10;&#9;at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)&#10;&#9;at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)&#10;&#9;at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)&#10;&#9;at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)&#10;&#9;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)&#10;&#9;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)&#10;&#9;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)&#10;&#9;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)&#10;&#9;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)&#10;&#9;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)&#10;&#9;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)&#10;&#9;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)&#10;&#9;at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)&#10;&#9;at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)&#10;&#9;at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)&#10;&#9;at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1793)&#10;&#9;at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)&#10;&#9;at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)&#10;&#9;at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)&#10;&#9;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)&#10;&#9;at java.lang.Thread.run(Thread.java:748)&#10;Creating a new SqlSession&#10;SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@64e58d80] was not registered for synchronization because synchronization is not active&#10;JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ccf6114] will not be managed by Spring&#10;==&gt;  Preparing: SELECT msg_id,msg_title,msg_content,publish_dept,msg_source,msg_type_code,msg_type_name,send_tm,publish_time,create_time,send_status,adcd,warn_grade,record_code FROM msg_content_base WHERE (send_status = ?)&#10;==&gt; Parameters: 0(String)&#10;&lt;==      Total: 0&#10;Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@64e58d80]&#10;2025-12-09 16:59:01.757 [scheduling-1] INFO  com.dcdev.kc.msg.task.msg.InnerMsSendThread - 预警消息定时任务-发送消息开始，需发送的消息有：0 条&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="61" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\resources\mapper\ytg\YtgStationInfosMapper.xml#L19-L61" />
-                      <option name="name" value="YtgStationInfosMapper.xml" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="19" />
-                      <option name="text" value="YtgStationInfosMapper.xml" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value=" 如何获取网络文件并上传到ossService.upload中" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="网络文件的文件类型、名称、大小怎么获取" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="然后上传到ossService.upload中" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="使用该方法保存到oss上的图片不全 是什么原因" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -8543,6 +8411,345 @@
                       </option>
                       <option name="statLine" value="327" />
                       <option name="text" value="YtgMonitorRecordsService.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="#CheckStandAloneAspect.java 188-190" />
+                          <option name="id" value="D:\project\dcxx\water-kc\water-kc-manage\src\main\java\com\dcdev\kc\api\aspect\CheckStandAloneAspect.java#L188-L190" />
+                          <option name="text" value="CheckStandAloneAspect.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="为何排序会变" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="190" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-manage\src\main\java\com\dcdev\kc\api\aspect\CheckStandAloneAspect.java#L188-L190" />
+                      <option name="name" value="CheckStandAloneAspect.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="188" />
+                      <option name="text" value="CheckStandAloneAspect.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="&#10;那为何appkey=e2x2xv@P4dKkpa92&amp;appsecret=GXGYTCwXcu8cHM&amp;H&amp;nonce=123&amp;timestamp=1765767335981不变&#10;缩写就变了k=e2x2xv@P4dKkpa92&amp;nonce=123&amp;s=GXGYTCwXcu8cHM&amp;H&amp;timestamp=1765767335981" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="190" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-manage\src\main\java\com\dcdev\kc\api\aspect\CheckStandAloneAspect.java#L188-L190" />
+                      <option name="name" value="CheckStandAloneAspect.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="188" />
+                      <option name="text" value="CheckStandAloneAspect.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="如何是 简化版排序 和完整版的一样" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="190" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-manage\src\main\java\com\dcdev\kc\api\aspect\CheckStandAloneAspect.java#L188-L190" />
+                      <option name="name" value="CheckStandAloneAspect.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="188" />
+                      <option name="text" value="CheckStandAloneAspect.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="需要都保留" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="190" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-manage\src\main\java\com\dcdev\kc\api\aspect\CheckStandAloneAspect.java#L188-L190" />
+                      <option name="name" value="CheckStandAloneAspect.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="188" />
+                      <option name="text" value="CheckStandAloneAspect.java" />
                       <option name="type" value="context" />
                     </ChatContextTag>
                   </list>
