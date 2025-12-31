@@ -6895,99 +6895,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="#QaHotQuestionListService.java 96-97" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\qa\impl\QaHotQuestionListService.java#L96-L97" />
-                          <option name="text" value="QaHotQuestionListService.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="MyBatis-Plus是3.5.11 还是提示Cannot resolve method 'withDeleted' in 'QueryWrapper'" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="97" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\qa\impl\QaHotQuestionListService.java#L96-L97" />
-                      <option name="name" value="QaHotQuestionListService.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="96" />
-                      <option name="text" value="QaHotQuestionListService.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="&quot;result&quot;: {&#10;                &quot;person&quot;: {&#10;                    &quot;abnormal&quot;: &quot;0&quot;,&#10;                    &quot;describe&quot;: &quot;图像显示一条水渠，两侧为石墙，左侧有木质护栏和水位尺，水渠内有少量浮萍和杂草，未发现人员。&quot;&#10;                },&#10;                &quot;flotage&quot;: {&#10;                    &quot;abnormal&quot;: &quot;0&quot;,&#10;                    &quot;describe&quot;: &quot;河道水面清澈，无漂浮物，两侧石墙边有绿色植被生长，环境整洁。&quot;&#10;                },&#10;                &quot;weed&quot;: {&#10;                    &quot;abnormal&quot;: &quot;1&quot;,&#10;                    &quot;describe&quot;: &quot;水域旁杂草丛生，部分遮挡水位尺，可能影响监测效果。&quot;&#10;                },&#10;                &quot;swim&quot;: {&#10;                    &quot;abnormal&quot;: &quot;0&quot;,&#10;                    &quot;describe&quot;: &quot;水域中无人员游泳，水体较浅，两侧为石墙，岸边有绿色植物覆盖。&quot;&#10;                },&#10;                &quot;fish&quot;: {&#10;                    &quot;abnormal&quot;: &quot;0&quot;,&#10;                    &quot;describe&quot;: &quot;河道水位较低，岸边有绿色植被覆盖，未见人员活动，整体环境正常。&quot;&#10;                },&#10;                &quot;custom&quot;: &quot;根据图像分析，岸边无人靠近，未发现明显安全隐患。水体较为清澈，周围植被生长正常，石墙和护栏结构完好，无异常情况。&quot;&#10;            }&#10;如何使用JSONObject解析 并遍历result中的各个对象信息" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -9869,6 +9776,19 @@
                       <option name="type" value="context" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="json字符串判断某个参数是否为空" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
