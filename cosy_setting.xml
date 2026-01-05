@@ -4163,32 +4163,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="SysFormFileMannager.getInstance().getRootPath(fileName) + fileName + &quot;.xml&quot; 为什么这段代码在linux环境拿不到这个xml文件" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="项目在服务器上是使用tomcat发布的 项目的存放路径是/home/ekp/ekp tomcat的存放路径是/home/ekp/linux64/tomcat， fileName=mp/convert/resource/bmpConvertGrantAmount 那么获取到的值什么" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value=" getRootPath方法 如下&#10; public String getRootPath(String fileName) {&#10;    if (this.isDefineTemp(fileName)) {&#10;      return this.getXFormFileRoot();&#10;    } else if (this.isCommonTemp(fileName)) {&#10;      return this.getXFormFileRoot();&#10;    } else if (this.isExistTemp(fileName)) {&#10;      return this.getXFormExistRoot();&#10;    } else if (fileName.indexOf(&quot;xform/upload&quot;) &gt; -1) {&#10;      return this.getXFormFileRoot();&#10;    } else {&#10;      return fileName.indexOf(&quot;xform/hbm&quot;) &gt; -1 ? this.getXFormHbmRoot() : ConfigLocationsUtil.getWebContentPath() + &quot;/&quot;;&#10;    }&#10;  }&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -5671,6 +5645,101 @@
                       <option name="type" value="context" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="git删除commit" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="194" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\km\share\webservice\KmShareWebserviceServiceImp.java#L176-L194" />
+                      <option name="name" value="KmShareWebserviceServiceImp.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="176" />
+                      <option name="text" value="KmShareWebserviceServiceImp.java" />
+                      <option name="type" value="context" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="git删除commit 命令" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
