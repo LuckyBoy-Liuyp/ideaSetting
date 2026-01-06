@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeGPT_OpenAISettings_210">
+    <option name="organization" value="https://api.deepseek.com/chat/completions" />
+  </component>
+</application>
