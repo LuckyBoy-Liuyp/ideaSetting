@@ -22,7 +22,6 @@
       </map>
     </option>
     <option name="dedicatedDomainUrl" value="" />
-    <option name="localStoragePath" value="C:\Users\yipen\.lingma" />
     <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
@@ -6526,6 +6525,19 @@
                       <option name="type" value="currentFile" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="idea为什么没用我指定的maven配置拉取依赖Cannot resolve Failure to transfer com.maycur.si:tds-sdk:pom:2.4.0 from http://nuget.dcyun.com:20002/repository/private-release/ was cached in the local repository, resolution will not be reattempted until the update interval of private-release has elapsed or updates are forced. Original error: Could not transfer artifact com.maycur.si:tds-sdk:pom:2.4.0 from/to private-release (http://nuget.dcyun.com:20002/repository/private-release/): Transfer failed for http://nuget.dcyun.com:20002/repository/private-release/com/maycur/si/tds-sdk/2.4.0/tds-sdk-2.4.0.pom&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
