@@ -4162,19 +4162,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="这个修改方式无法解决Hibernate代理对象无法强制转换为具体实体类SysOrgPerson。" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="如何改为给指定的某一页加水印" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -6137,6 +6124,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="不是maven项目 是ssh" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="git查看当前项目的git地址" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
