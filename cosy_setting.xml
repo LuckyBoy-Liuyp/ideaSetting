@@ -7586,793 +7586,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="boolean save = this.save(entity); 新增后如何获取对象ID" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="252" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L252-L252" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L252-L252" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="252" />
-                      <option name="text" value="YtgMonitorRecordsService.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="61" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\domain\qa\QaIntagtInfo.java#L60-L61" />
-                      <option name="name" value="QaIntagtInfo.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="60" />
-                      <option name="text" value="QaIntagtInfo.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="#YtgMonitorRecordsService.java 367-368" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L367-L368" />
-                          <option name="text" value="YtgMonitorRecordsService.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="monitorTypeCodes不是ID是其中的一个字段怎么查" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="366" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L366-L366" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L366-L366" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="366" />
-                      <option name="text" value="YtgMonitorRecordsService.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="368" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L367-L368" />
-                      <option name="name" value="YtgMonitorRecordsService.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="367" />
-                      <option name="text" value="YtgMonitorRecordsService.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="61" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\domain\qa\QaIntagtInfo.java#L60-L61" />
-                      <option name="name" value="QaIntagtInfo.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="60" />
-                      <option name="text" value="QaIntagtInfo.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="#YtgMonitorRecordsService.java 390-410" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L390-L410" />
-                          <option name="text" value="YtgMonitorRecordsService.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="怎么优化动态传参的代码" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="410" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L390-L410" />
-                      <option name="name" value="YtgMonitorRecordsService.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="390" />
-                      <option name="text" value="YtgMonitorRecordsService.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="#YtgMonitorRecordsService.java 390-410" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L390-L410" />
-                          <option name="text" value="YtgMonitorRecordsService.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="如何改为customMonitorMsg为空时去除掉不传参" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="390" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L390-L390" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L390-L390" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="390" />
-                      <option name="text" value="YtgMonitorRecordsService.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="410" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L390-L410" />
-                      <option name="name" value="YtgMonitorRecordsService.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="390" />
-                      <option name="text" value="YtgMonitorRecordsService.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="那如果alertMsg 为空 customMonitorMsg不为空 怎么办" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="407" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L407-L407" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L407-L407" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="407" />
-                      <option name="text" value="YtgMonitorRecordsService.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="410" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L390-L410" />
-                      <option name="name" value="YtgMonitorRecordsService.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="390" />
-                      <option name="text" value="YtgMonitorRecordsService.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="那如果所在地区也要动态根据值展示的的怎么办" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -9914,6 +9127,141 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="是合并其中一个提交而不是全部" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="    private TaskScheduler taskScheduler; 是干嘛用的 " />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="@selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="34" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\water-kc-msg\src\main\java\com\dcdev\kc\msg\task\msg\CronTaskRegistrar.java#L34-L34" />
+                      <option name="name" value="D:\project\dcxx\water-kc\water-kc-msg\src\main\java\com\dcdev\kc\msg\task\msg\CronTaskRegistrar.java#L34-L34" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="34" />
+                      <option name="text" value="CronTaskRegistrar.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="基于这个给我生成一个基于线程池的任务调度代码块" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="基于这个给我生成一个基于线程池的任务调度代码块，可通用" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="没有根据cron表达式执行的任务吗" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="基于java8" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
