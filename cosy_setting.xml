@@ -6826,6 +6826,25 @@
             </list>
           </value>
         </entry>
+        <entry key="masterdata-shuili|1780516383653258|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="maven 打包跳过测试" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="masterdata-shuili|1780516383653258|InlineTab">
           <value>
             <list>
