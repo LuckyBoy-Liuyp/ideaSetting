@@ -4285,261 +4285,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="#KmShareWebserviceServiceImp.java 171-195" />
-                          <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\km\share\webservice\KmShareWebserviceServiceImp.java#L171-L195" />
-                          <option name="text" value="KmShareWebserviceServiceImp.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value=" 如将list的值封装到kmShareDetailForm中" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="193" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\km\share\webservice\KmShareWebserviceServiceImp.java#L193-L193" />
-                      <option name="name" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\km\share\webservice\KmShareWebserviceServiceImp.java#L193-L193" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="193" />
-                      <option name="text" value="KmShareWebserviceServiceImp.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="195" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\km\share\webservice\KmShareWebserviceServiceImp.java#L171-L195" />
-                      <option name="name" value="KmShareWebserviceServiceImp.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="171" />
-                      <option name="text" value="KmShareWebserviceServiceImp.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="#KmShareWebserviceServiceImp.java 176-194" />
-                          <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\km\share\webservice\KmShareWebserviceServiceImp.java#L176-L194" />
-                          <option name="text" value="KmShareWebserviceServiceImp.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="Could not locate named parameter [fdShareDate], expecting one of []&#10;为什么会报错" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="194" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\SPRJ20220303_HZDCXXJZ\src\com\landray\kmss\km\share\webservice\KmShareWebserviceServiceImp.java#L176-L194" />
-                      <option name="name" value="KmShareWebserviceServiceImp.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="176" />
-                      <option name="text" value="KmShareWebserviceServiceImp.java" />
-                      <option name="type" value="context" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="BigDecimal 转string" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -6264,6 +6009,32 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="不需要中文翻译 ，根据上述格式生成" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="查看git地址" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="D:\project\dcxx\ekp2026&gt;git push origin master  &#10;Everything up-to-date&#10;To https://git.dcyun.com/front-wisdom-net/bigdata/api/digit-institute/szsy-oa.git&#10; ! [rejected]            master -&gt; master (fetch first)&#10;error: failed to push some refs to 'https://git.dcyun.com/front-wisdom-net/bigdata/api/digit-institute/szsy-oa.git'&#10;hint: Updates were rejected because the remote contains work that you do not&#10;hint: have locally. This is usually caused by another repository pushing to&#10;hint: the same ref. If you want to integrate the remote changes, use&#10;hint: 'git pull' before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details.&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
