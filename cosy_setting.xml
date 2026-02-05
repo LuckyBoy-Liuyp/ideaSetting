@@ -7863,247 +7863,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="@YtgMonitorRestartHandle.java 128-136" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\YtgMonitorRestartHandle.java#L128-L136" />
-                          <option name="text" value="YtgMonitorRestartHandle.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="这里删除后如何删除scheduledExecutorService中的任务" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="file" />
-                          <option name="drillDownEnable" value="true" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="file" />
-                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@file" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine" />
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent" />
-                          <entry key="startLine" />
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\YtgMonitorRestartHandle.java" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\YtgMonitorRestartHandle.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="text" value="YtgMonitorRestartHandle.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="136" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\YtgMonitorRestartHandle.java#L128-L136" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\YtgMonitorRestartHandle.java#L128-L136" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="128" />
-                      <option name="text" value="YtgMonitorRestartHandle.java" />
-                      <option name="type" value="file" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="@YtgMonitorRestartHandle.java 107-128" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\YtgMonitorRestartHandle.java#L107-L128" />
-                          <option name="text" value="YtgMonitorRestartHandle.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="no instance(s) of type variable(s) K exist so that KeySetView&lt;K, Boolean&gt; conforms to Set&lt;ScheduledFuture&lt;?&gt;&gt;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="128" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\YtgMonitorRestartHandle.java#L107-L128" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\YtgMonitorRestartHandle.java#L107-L128" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="107" />
-                      <option name="text" value="YtgMonitorRestartHandle.java" />
-                      <option name="type" value="file" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="Set&lt;ScheduledFuture&lt;?&gt;&gt; 不能指定准确的类型吗 &#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -9784,6 +9543,181 @@
                       <option name="type" value="file" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="@YtgMonitorRecordsService.java 392-394" />
+                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L392-L394" />
+                          <option name="text" value="YtgMonitorRecordsService.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="getMonitorRestartCount=3 setRestartCount会赋值为4吗" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="@selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="393" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L393-L393" />
+                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L393-L393" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="393" />
+                      <option name="text" value="YtgMonitorRecordsService.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="@selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="394" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L392-L394" />
+                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\ytg\impl\YtgMonitorRecordsService.java#L392-L394" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="392" />
+                      <option name="text" value="YtgMonitorRecordsService.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="setRestartCount最大会赋值为多少" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
