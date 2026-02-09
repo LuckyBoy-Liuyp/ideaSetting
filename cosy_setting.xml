@@ -7289,630 +7289,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="/*&#10; * Licensed to the Apache Software Foundation (ASF) under one&#10; * or more contributor license agreements.  See the NOTICE file&#10; * distributed with this work for additional information&#10; * regarding copyright ownership.  The ASF licenses this file&#10; * to you under the Apache License, Version 2.0 (the&#10; * &quot;License&quot;); you may not use this file except in compliance&#10; * with the License.  You may obtain a copy of the License at&#10; *&#10; *     http://www.apache.org/licenses/LICENSE-2.0&#10; *&#10; * Unless required by applicable law or agreed to in writing,&#10; * software distributed under the License is distributed on an&#10; * &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY&#10; * KIND, either express or implied.  See the License for the&#10; * specific language governing permissions and limitations&#10; * under the License.&#10; */&#10;&#10;package com.aliyun.oss.model;&#10;&#10;import java.io.InputStream;&#10;&#10;/**&#10; * The result class of a Put Object request.&#10; */&#10;public class PutObjectResult extends GenericResult implements CallbackResult {&#10;&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="// Object ETag&#10;    private String eTag;&#10;    &#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="// Object Version Id&#10;    private String versionId;&#10;&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="// The callback response body. Caller needs to close it.&#10;    private InputStream callbackResponseBody;&#10;&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="/**&#10;     * Gets the target {@link OSSObject}'s ETag.&#10;     * &#10;     * " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@return Target OSSObject's ETag.&#10;     */&#10;    public String getETag() {&#10;        return eTag;&#10;    }&#10;&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="/**&#10;     * Sets the target {@link OSSObject}'s ETag.&#10;     * &#10;     * " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@param eTag&#10;     *            Target OSSObject's ETag.&#10;     */&#10;    public void setETag(String eTag) {&#10;        this.eTag = eTag;&#10;    }&#10;    &#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="/**&#10;     * Gets version id.&#10;     * &#10;     * " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@return version id.&#10;     */&#10;    public String getVersionId() {&#10;        return versionId;&#10;    }&#10;&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="/**&#10;     * Sets version id.&#10;     * &#10;     * " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@param versionId&#10;     */&#10;    public void setVersionId(String versionId) {&#10;        this.versionId = versionId;&#10;    }&#10;&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="/**&#10;     * Gets the callback response body. The caller needs to close it. Deprecated&#10;     * method. Please use this.getResponse().getContent() instead.&#10;     * &#10;     * " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@return The callback response body.&#10;     */&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@Override&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@Deprecated&#10;    public InputStream getCallbackResponseBody() {&#10;        return callbackResponseBody;&#10;    }&#10;&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="/**&#10;     * Sets the callback response body.&#10;     * &#10;     * " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@param callbackResponseBody&#10;     *            The callback response body.&#10;     */&#10;    " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="@Override&#10;    public void setCallbackResponseBody(InputStream callbackResponseBody) {&#10;        this.callbackResponseBody = callbackResponseBody;&#10;    }&#10;&#10;}&#10;有返回附件的MD5值吗 &#10; " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="阿里云oss接口上传如何获取文件的md5(唯一值)" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="@RagKnowledgeFileInfosService.java 515-593" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L515-L593" />
-                          <option name="text" value="RagKnowledgeFileInfosService.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="md5去重判断和获取还能优化吗 每个文件执行了两次md5操作" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="518" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L518-L518" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L518-L518" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="518" />
-                      <option name="text" value="RagKnowledgeFileInfosService.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="593" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L515-L593" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L515-L593" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="515" />
-                      <option name="text" value="RagKnowledgeFileInfosService.java" />
-                      <option name="type" value="file" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="@RagKnowledgeFileInfosService.java 515-593" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L515-L593" />
-                          <option name="text" value="RagKnowledgeFileInfosService.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="  md5去重判断和获取还能优化吗 每个文件执行了两次md5操作 " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="593" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L515-L593" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L515-L593" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="515" />
-                      <option name="text" value="RagKnowledgeFileInfosService.java" />
-                      <option name="type" value="file" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="tag">
-                        <ChatAskTag>
-                          <option name="displayText" value="@RagKnowledgeFileInfosService.java 528-530" />
-                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L528-L530" />
-                          <option name="text" value="RagKnowledgeFileInfosService.java" />
-                          <option name="type" value="context" />
-                        </ChatAskTag>
-                      </option>
-                      <option name="type" value="tag" />
-                    </ChatInputElement>
-                    <ChatInputElement>
-                      <option name="text" value="getFileName和getFileMd5改为或的关系" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="530" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L530-L530" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L530-L530" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="530" />
-                      <option name="text" value="RagKnowledgeFileInfosService.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="530" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L528-L530" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L528-L530" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="528" />
-                      <option name="text" value="RagKnowledgeFileInfosService.java" />
-                      <option name="type" value="file" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value=" md5List.add(DigestUtils.md5DigestAsHex(inputStream)); 加密方式改为sm3" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="sourceType" value="system" />
-                          <option name="text" value="@selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="526" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L526-L526" />
-                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L526-L526" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="sourceType" value="system" />
-                      <option name="statLine" value="526" />
-                      <option name="text" value="RagKnowledgeFileInfosService.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="hutool有sm3的util包吗" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="//&#10;// Source code recreated from a .class file by IntelliJ IDEA&#10;// (powered by FernFlower decompiler)&#10;//&#10;&#10;package com.dcxx.framework.utility.sm;&#10;&#10;import org.bouncycastle.util.encoders.Hex;&#10;&#10;public class SM3Digest {&#10;  private static final int BYTE_LENGTH = 32;&#10;  private static final int BLOCK_LENGTH = 64;&#10;  private static final int BUFFER_LENGTH = 64;&#10;  private byte[] xBuf = new byte[64];&#10;  private int xBufOff;&#10;  private byte[] V;&#10;  private int cntBlock;&#10;&#10;  public SM3Digest() {&#10;    this.V = (byte[])SM3.iv.clone();&#10;    this.cntBlock = 0;&#10;  }&#10;&#10;  public SM3Digest(SM3Digest t) {&#10;    this.V = (byte[])SM3.iv.clone();&#10;    this.cntBlock = 0;&#10;    System.arraycopy(t.xBuf, 0, this.xBuf, 0, t.xBuf.length);&#10;    this.xBufOff = t.xBufOff;&#10;    System.arraycopy(t.V, 0, this.V, 0, t.V.length);&#10;  }&#10;&#10;  public int doFinal(byte[] out, int outOff) {&#10;    byte[] tmp = this.doFinal();&#10;    System.arraycopy(tmp, 0, out, 0, tmp.length);&#10;    return 32;&#10;  }&#10;&#10;  public void reset() {&#10;    this.xBufOff = 0;&#10;    this.cntBlock = 0;&#10;    this.V = (byte[])SM3.iv.clone();&#10;  }&#10;&#10;  public void update(byte[] in, int inOff, int len) {&#10;    int partLen = 64 - this.xBufOff;&#10;    int inputLen = len;&#10;    int dPos = inOff;&#10;    if (partLen &lt; len) {&#10;      System.arraycopy(in, inOff, this.xBuf, this.xBufOff, partLen);&#10;      inputLen = len - partLen;&#10;      dPos = inOff + partLen;&#10;      this.doUpdate();&#10;&#10;      while(inputLen &gt; 64) {&#10;        System.arraycopy(in, dPos, this.xBuf, 0, 64);&#10;        inputLen -= 64;&#10;        dPos += 64;&#10;        this.doUpdate();&#10;      }&#10;    }&#10;&#10;    System.arraycopy(in, dPos, this.xBuf, this.xBufOff, inputLen);&#10;    this.xBufOff += inputLen;&#10;  }&#10;&#10;  private void doUpdate() {&#10;    byte[] B = new byte[64];&#10;&#10;    for(int i = 0; i &lt; 64; i += 64) {&#10;      System.arraycopy(this.xBuf, i, B, 0, B.length);&#10;      this.doHash(B);&#10;    }&#10;&#10;    this.xBufOff = 0;&#10;  }&#10;&#10;  private void doHash(byte[] B) {&#10;    byte[] tmp = SM3.CF(this.V, B);&#10;    System.arraycopy(tmp, 0, this.V, 0, this.V.length);&#10;    ++this.cntBlock;&#10;  }&#10;&#10;  private byte[] doFinal() {&#10;    byte[] B = new byte[64];&#10;    byte[] buffer = new byte[this.xBufOff];&#10;    System.arraycopy(this.xBuf, 0, buffer, 0, buffer.length);&#10;    byte[] tmp = SM3.padding(buffer, this.cntBlock);&#10;&#10;    for(int i = 0; i &lt; tmp.length; i += 64) {&#10;      System.arraycopy(tmp, i, B, 0, B.length);&#10;      this.doHash(B);&#10;    }&#10;&#10;    return this.V;&#10;  }&#10;&#10;  public void update(byte in) {&#10;    byte[] buffer = new byte[]{in};&#10;    this.update(buffer, 0, 1);&#10;  }&#10;&#10;  public int getDigestSize() {&#10;    return 32;&#10;  }&#10;&#10;  public static void main(String[] args) {&#10;    byte[] key = &quot;ererfeiisgod&quot;.getBytes();&#10;    byte[] md = new byte[32];&#10;    byte[] msg1 = &quot;ererfeiisgod&quot;.getBytes();&#10;    SM3Digest sm3 = new SM3Digest();&#10;    sm3.update(msg1, 0, msg1.length);&#10;    sm3.doFinal(md, 0);&#10;    String s = new String(Hex.encode(md));&#10;    System.out.println(s.toUpperCase());&#10;  }&#10;}这个工具类怎么使用 &#10; " />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="tag">
                         <ChatAskTag>
                           <option name="displayText" value="@RagKnowledgeFileInfosService.java 804-824" />
@@ -8875,6 +8251,466 @@
                 </option>
                 <option name="contextTags">
                   <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="https://zszxdev.com:48473/files/water-kc-dev/ragKnowledgeFile/20260123/SL 762-2018山洪灾害预警设备技术.pdf &#10;根据这个url地址 分析如何将中文和空格url编码化，而不涉及https:// 等信息，要求代码简洁，越简洁约好" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="@file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine" />
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent" />
+                          <entry key="startLine" />
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java" />
+                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="text" value="RagKnowledgeFileInfosService.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="那如果是http://呢 你这个通用性不强啊" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="不能只将空格和中文字符编码吗 " />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="URL url = new URL(relativeUrl).getPath();&#10;将relativeUrl带入上边给到的url那么getPath获取到的是什么" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="@selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="819" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L819-L819" />
+                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L819-L819" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="819" />
+                      <option name="text" value="RagKnowledgeFileInfosService.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="域名怎么获取" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="@RagKnowledgeFileInfosService.java 818-831" />
+                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L818-L831" />
+                          <option name="text" value="RagKnowledgeFileInfosService.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="结合代码段给出url的示例" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="@selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="831" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L818-L831" />
+                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L818-L831" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="818" />
+                      <option name="text" value="RagKnowledgeFileInfosService.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="@RagKnowledgeFileInfosService.java 819-831" />
+                          <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L819-L831" />
+                          <option name="text" value="RagKnowledgeFileInfosService.java" />
+                          <option name="type" value="context" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                    <ChatInputElement>
+                      <option name="text" value="结合代码段给出使用java.net.URL 类的示例" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="@selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="831" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L819-L831" />
+                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L819-L831" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="819" />
+                      <option name="text" value="RagKnowledgeFileInfosService.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value=" 使用new URL ，资源url有空格为什么会获取失败" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="@selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="819" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L819-L819" />
+                      <option name="name" value="D:\project\dcxx\water-kc\domain-dao-service\water-kc-dao-manage\src\main\java\com\dcdev\kc\manage\service\rag\impl\RagKnowledgeFileInfosService.java#L819-L819" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="819" />
+                      <option name="text" value="RagKnowledgeFileInfosService.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
                 </option>
               </ChatRecentQuery>
             </list>
